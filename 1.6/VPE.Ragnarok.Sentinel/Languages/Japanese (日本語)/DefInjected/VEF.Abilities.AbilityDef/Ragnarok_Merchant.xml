@@ -83,12 +83,12 @@
   <VPE_Merchant_PushCartSTNL.verbProperties.label>プッシュカート</VPE_Merchant_PushCartSTNL.verbProperties.label>
 
   <!-- EN: Repair -->
-  <VPE_Merchant_RepairItemSTNL.label>装備品修理</VPE_Merchant_RepairItemSTNL.label>
+  <VPE_Merchant_RepairItemSTNL.label>修理</VPE_Merchant_RepairItemSTNL.label>
   <!-- EN: Fully repair everything within the target's inventory.\n\nMay also be used to repair mechanoids. -->
   <VPE_Merchant_RepairItemSTNL.description>対象の所持品内のすべてを完全修理します。メカノイドの修理にも使用できます。</VPE_Merchant_RepairItemSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_RepairItemSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_RepairItemSTNL.jobReportString>
   <!-- EN: Repair -->
-  <VPE_Merchant_RepairItemSTNL.verbProperties.label>装備品修理</VPE_Merchant_RepairItemSTNL.verbProperties.label>
+  <VPE_Merchant_RepairItemSTNL.verbProperties.label>修理</VPE_Merchant_RepairItemSTNL.verbProperties.label>
 
 </LanguageData>
