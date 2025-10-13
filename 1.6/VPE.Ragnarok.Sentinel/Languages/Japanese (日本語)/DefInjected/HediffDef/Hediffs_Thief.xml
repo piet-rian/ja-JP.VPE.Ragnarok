@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Awareness -->
+  <VPE_Ragnarok_Thief_AwarenessSTNL.label>TODO</VPE_Ragnarok_Thief_AwarenessSTNL.label>
+  <!-- EN: This creature cannot be stolen from. -->
+  <VPE_Ragnarok_Thief_AwarenessSTNL.description>TODO</VPE_Ragnarok_Thief_AwarenessSTNL.description>
+
+  <!-- EN: Increased Flee Rate -->
+  <VPE_Ragnarok_Thief_DodgePassiveSTNL.label>回避率増加</VPE_Ragnarok_Thief_DodgePassiveSTNL.label>
+  <!-- EN: This thief will have a better chance at avoiding melee attacks than other people, they also will gain a slight increase to their movement speed. -->
+  <VPE_Ragnarok_Thief_DodgePassiveSTNL.description>TODO</VPE_Ragnarok_Thief_DodgePassiveSTNL.description>
+
+  <!-- EN: Double Attack -->
+  <VPE_Ragnarok_Thief_DoubleAttackSTNL.label>ダブルアタック</VPE_Ragnarok_Thief_DoubleAttackSTNL.label>
+  <!-- EN: This person has a 70% chance to inflict two hits instead of one when fighting with melee weapons. -->
+  <VPE_Ragnarok_Thief_DoubleAttackSTNL.description>TODO</VPE_Ragnarok_Thief_DoubleAttackSTNL.description>
+
+  <!-- EN: Venom -->
+  <VPE_Ragnarok_Thief_EnvenomSTNL.label>毒</VPE_Ragnarok_Thief_EnvenomSTNL.label>
+  <!-- EN: This person is suffering from a deadly toxin. -->
+  <VPE_Ragnarok_Thief_EnvenomSTNL.description>TODO</VPE_Ragnarok_Thief_EnvenomSTNL.description>
+
+  <!-- EN: Carrying Stone -->
+  <VPE_Ragnarok_Thief_FoundStoneSTNL.label>石拾い</VPE_Ragnarok_Thief_FoundStoneSTNL.label>
+  <!-- EN: This person is carrying small stones. -->
+  <VPE_Ragnarok_Thief_FoundStoneSTNL.description>TODO</VPE_Ragnarok_Thief_FoundStoneSTNL.description>
+
+  <!-- EN: Hiding -->
+  <VPE_Ragnarok_Thief_HidingSTNL.label>ハイディング</VPE_Ragnarok_Thief_HidingSTNL.label>
+  <!-- EN: This person is concealing themselves to avoid enemies. -->
+  <VPE_Ragnarok_Thief_HidingSTNL.description>TODO</VPE_Ragnarok_Thief_HidingSTNL.description>
+
+</LanguageData>

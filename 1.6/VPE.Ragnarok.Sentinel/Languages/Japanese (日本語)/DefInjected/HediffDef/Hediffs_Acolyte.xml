@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Angelus -->
+  <VPE_Ragnarok_Acolyte_AngelusSTNL.label>アンゼルス</VPE_Ragnarok_Acolyte_AngelusSTNL.label>
+  <!-- EN: This creature is being protected by an acolyte, they will receive reduced damage from attacks. -->
+  <VPE_Ragnarok_Acolyte_AngelusSTNL.description>TODO</VPE_Ragnarok_Acolyte_AngelusSTNL.description>
+
+  <!-- EN: Blessing -->
+  <VPE_Ragnarok_Acolyte_BlessingBadSTNL.label>闇ブレス</VPE_Ragnarok_Acolyte_BlessingBadSTNL.label>
+  <!-- EN: This creature has had their stats increased by an acolyte, they will gain various benefits for the duration of this condition. -->
+  <VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>TODO</VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>
+
+  <!-- EN: Blessing -->
+  <VPE_Ragnarok_Acolyte_BlessingGoodSTNL.label>ブレッシング</VPE_Ragnarok_Acolyte_BlessingGoodSTNL.label>
+  <!-- EN: This creature has had their stats increased by an acolyte, they will gain various benefits for the duration of this condition. -->
+  <VPE_Ragnarok_Acolyte_BlessingGoodSTNL.description>TODO</VPE_Ragnarok_Acolyte_BlessingGoodSTNL.description>
+
+  <!-- EN: Decreased Agility -->
+  <VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.label>速度減少</VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.label>
+  <!-- EN: This creature has had their agility decreased by an acolyte, they will move slower for the duration of this condition. -->
+  <VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.description>TODO</VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.description>
+
+  <!-- EN: Demon Bane -->
+  <VPE_Ragnarok_Acolyte_DemonBaneSTNL.label>デーモンベイン</VPE_Ragnarok_Acolyte_DemonBaneSTNL.label>
+  <!-- EN: This person will deal twice the damage they normally would inflict to entities and mutants. -->
+  <VPE_Ragnarok_Acolyte_DemonBaneSTNL.description>TODO</VPE_Ragnarok_Acolyte_DemonBaneSTNL.description>
+
+  <!-- EN: Divine Protection -->
+  <VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.label>ディバインプロテクション</VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.label>
+  <!-- EN: This person will weaken enemy entities within a 7 cell radius around themselves, which will reduce their outgoing damage by 30%. -->
+  <VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.description>TODO</VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.description>
+
+  <!-- EN: Divine Protection -->
+  <VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.label>ディバインプロテクション</VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.label>
+  <!-- EN: This entity is being weakened, it will deal reduced damage to other creatures. -->
+  <VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.description>TODO</VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.description>
+
+  <!-- EN: Increased Agility -->
+  <VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.label>速度増加</VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.label>
+  <!-- EN: This creature has had their agility increased by an acolyte, they will attack and move faster for the duration of this condition. -->
+  <VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.description>TODO</VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.description>
+
+  <!-- EN: Pneuma -->
+  <VPE_Ragnarok_Acolyte_PneumaHediffSTNL.label>ニューマ</VPE_Ragnarok_Acolyte_PneumaHediffSTNL.label>
+  <!-- EN: Custom hediff that handles deletion of nearby projectiles. -->
+  <VPE_Ragnarok_Acolyte_PneumaHediffSTNL.description>TODO</VPE_Ragnarok_Acolyte_PneumaHediffSTNL.description>
+
+  <!-- EN: Ruwach -->
+  <VPE_Ragnarok_Acolyte_RuwachSTNL.label>ルアフ</VPE_Ragnarok_Acolyte_RuwachSTNL.label>
+  <!-- EN: This person will reveal nearby invisible creatures and inflict 15 points of flame damage to them upon reveal. -->
+  <VPE_Ragnarok_Acolyte_RuwachSTNL.description>TODO</VPE_Ragnarok_Acolyte_RuwachSTNL.description>
+
+  <!-- EN: Signum Crucis -->
+  <VPE_Ragnarok_Acolyte_SignumCrucisSTNL.label>シグナムクルシス</VPE_Ragnarok_Acolyte_SignumCrucisSTNL.label>
+  <!-- EN: This entity is being weakened severly, it will take massively increase damage for the duration of this condition. -->
+  <VPE_Ragnarok_Acolyte_SignumCrucisSTNL.description>TODO</VPE_Ragnarok_Acolyte_SignumCrucisSTNL.description>
+
+</LanguageData>

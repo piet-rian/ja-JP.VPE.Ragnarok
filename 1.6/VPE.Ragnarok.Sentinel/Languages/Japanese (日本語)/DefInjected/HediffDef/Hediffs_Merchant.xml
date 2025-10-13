@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Cart Decoration -->
+  <VPE_Ragnarok_Merchant_CartDecorationSTNL.label>カートデコレーション</VPE_Ragnarok_Merchant_CartDecorationSTNL.label>
+  <!-- EN: This cart has been decorated, it will grant more beauty to the person pushing it and will allow them to recruit prisoners faster. -->
+  <VPE_Ragnarok_Merchant_CartDecorationSTNL.description>TODO</VPE_Ragnarok_Merchant_CartDecorationSTNL.description>
+
+  <!-- EN: Crazy Uproar -->
+  <VPE_Ragnarok_Merchant_CrazyUproarSTNL.label>ラウドボイス</VPE_Ragnarok_Merchant_CrazyUproarSTNL.label>
+  <!-- EN: This person is being cheered on by a merchant, their attacks will deal increased damage for the duration of this condition. -->
+  <VPE_Ragnarok_Merchant_CrazyUproarSTNL.description>TODO</VPE_Ragnarok_Merchant_CrazyUproarSTNL.description>
+
+  <!-- EN: Discount -->
+  <VPE_Ragnarok_Merchant_DiscountSTNL.label>ディスカウント</VPE_Ragnarok_Merchant_DiscountSTNL.label>
+  <!-- EN: This merchant is capable of gaining better prices during trading than other people. -->
+  <VPE_Ragnarok_Merchant_DiscountSTNL.description>TODO</VPE_Ragnarok_Merchant_DiscountSTNL.description>
+
+  <!-- EN: Enhance Weight -->
+  <VPE_Ragnarok_Merchant_EnhanceWeightSTNL.label>所持限界量増加</VPE_Ragnarok_Merchant_EnhanceWeightSTNL.label>
+  <!-- EN: This merchant is capable of carrying more items than other people. -->
+  <VPE_Ragnarok_Merchant_EnhanceWeightSTNL.description>TODO</VPE_Ragnarok_Merchant_EnhanceWeightSTNL.description>
+
+  <!-- EN: Overcharge -->
+  <VPE_Ragnarok_Merchant_OverchargeSTNL.label>オーバーチャージ</VPE_Ragnarok_Merchant_OverchargeSTNL.label>
+  <!-- EN: This merchant is capable of gaining even better prices during trading than other people. -->
+  <VPE_Ragnarok_Merchant_OverchargeSTNL.description>TODO</VPE_Ragnarok_Merchant_OverchargeSTNL.description>
+
+</LanguageData>

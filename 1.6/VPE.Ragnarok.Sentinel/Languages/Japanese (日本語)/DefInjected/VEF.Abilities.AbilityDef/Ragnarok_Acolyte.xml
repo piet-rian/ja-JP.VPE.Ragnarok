@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Angelus -->
+  <VPE_Acolyte_AngelusSTNL.label>アンゼルス</VPE_Acolyte_AngelusSTNL.label>
+  <!-- EN: Envelops nearby allies with a protective field that will reduce all incoming damage. -->
+  <VPE_Acolyte_AngelusSTNL.description>TODO</VPE_Acolyte_AngelusSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_AngelusSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_AngelusSTNL.jobReportString>
+  <!-- EN: Angelus -->
+  <VPE_Acolyte_AngelusSTNL.verbProperties.label>アンゼルス</VPE_Acolyte_AngelusSTNL.verbProperties.label>
+
+  <!-- EN: Aqua Benedicta -->
+  <VPE_Acolyte_AquaBenedictaSTNL.label>アクアベネディクタ</VPE_Acolyte_AquaBenedictaSTNL.label>
+  <!-- EN: Draws water around the caster and manipulate it to cure the caster's addiction, this ability requires standing on water to function. -->
+  <VPE_Acolyte_AquaBenedictaSTNL.description>TODO</VPE_Acolyte_AquaBenedictaSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_AquaBenedictaSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_AquaBenedictaSTNL.jobReportString>
+  <!-- EN: Aqua Benedicta -->
+  <VPE_Acolyte_AquaBenedictaSTNL.verbProperties.label>アクアベネディクタ</VPE_Acolyte_AquaBenedictaSTNL.verbProperties.label>
+
+  <!-- EN: Blessing -->
+  <VPE_Acolyte_BlessingSTNL.label>ブレッシング</VPE_Acolyte_BlessingSTNL.label>
+  <!-- EN: Places a temporary buff on a single target that increases, attack strength, attack speed, and reduce psyfocus consumption for 240 sec.\n\nEntities will have the aforementioned stats reduced for the duration of this condition. -->
+  <VPE_Acolyte_BlessingSTNL.description>TODO</VPE_Acolyte_BlessingSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_BlessingSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_BlessingSTNL.jobReportString>
+  <!-- EN: Blessing -->
+  <VPE_Acolyte_BlessingSTNL.verbProperties.label>ブレッシング</VPE_Acolyte_BlessingSTNL.verbProperties.label>
+
+  <!-- EN: Cure -->
+  <VPE_Acolyte_CureSTNL.label>キュアー</VPE_Acolyte_CureSTNL.label>
+  <!-- EN: Cures a single target from their illness. -->
+  <VPE_Acolyte_CureSTNL.description>TODO</VPE_Acolyte_CureSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_CureSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_CureSTNL.jobReportString>
+  <!-- EN: Cure -->
+  <VPE_Acolyte_CureSTNL.verbProperties.label>キュアー</VPE_Acolyte_CureSTNL.verbProperties.label>
+
+  <!-- EN: Decrease Agility -->
+  <VPE_Acolyte_DecreaseAgiSTNL.label>速度減少</VPE_Acolyte_DecreaseAgiSTNL.label>
+  <!-- EN: Attempts to place a temporary dbuff on the target that decreases movement speed. 80% success chance. -->
+  <VPE_Acolyte_DecreaseAgiSTNL.description>TODO</VPE_Acolyte_DecreaseAgiSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_DecreaseAgiSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_DecreaseAgiSTNL.jobReportString>
+  <!-- EN: Decrease Agility -->
+  <VPE_Acolyte_DecreaseAgiSTNL.verbProperties.label>速度減少</VPE_Acolyte_DecreaseAgiSTNL.verbProperties.label>
+
+  <!-- EN: Passive: Demon Bane -->
+  <VPE_Acolyte_DemonBaneSTNL.label>(P)デーモンベイン</VPE_Acolyte_DemonBaneSTNL.label>
+  <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nThis person will receive a buff that will allow them to deal a second instance of physical damage to entities.\n\nThe amount of damage dealt by this instance is tied to the damage inflicted by the initial hit. -->
+  <VPE_Acolyte_DemonBaneSTNL.description>TODO</VPE_Acolyte_DemonBaneSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_DemonBaneSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_DemonBaneSTNL.jobReportString>
+  <!-- EN: Passive: Demon Bane -->
+  <VPE_Acolyte_DemonBaneSTNL.verbProperties.label>(P)デーモンベイン</VPE_Acolyte_DemonBaneSTNL.verbProperties.label>
+
+  <!-- EN: Passive: Divine Protection -->
+  <VPE_Acolyte_DivineProtectionSTNL.label>(P)ディバインプロテクション</VPE_Acolyte_DivineProtectionSTNL.label>
+  <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nReduce the offensive capabilities of nearby entities around the caster. -->
+  <VPE_Acolyte_DivineProtectionSTNL.description>TODO</VPE_Acolyte_DivineProtectionSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_DivineProtectionSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_DivineProtectionSTNL.jobReportString>
+  <!-- EN: Passive: Divine Protection -->
+  <VPE_Acolyte_DivineProtectionSTNL.verbProperties.label>(P)ディバインプロテクション</VPE_Acolyte_DivineProtectionSTNL.verbProperties.label>
+
+  <!-- EN: Heal -->
+  <VPE_Acolyte_HealSTNL.label>ヒール</VPE_Acolyte_HealSTNL.label>
+  <!-- EN: Heals every wound in the target's health tab by half, additionally substracts 1 from the severity of non permanent wounds.\n\nTargeting entities with this ability will deal 15 flame damage to them instead. -->
+  <VPE_Acolyte_HealSTNL.description>TODO</VPE_Acolyte_HealSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_HealSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_HealSTNL.jobReportString>
+  <!-- EN: Heal -->
+  <VPE_Acolyte_HealSTNL.verbProperties.label>ヒール</VPE_Acolyte_HealSTNL.verbProperties.label>
+
+  <!-- EN: Holy Light -->
+  <VPE_Acolyte_HolyLightSTNL.label>ホーリーライト</VPE_Acolyte_HolyLightSTNL.label>
+  <!-- EN: Inflicts 30 points of flame damage to a single target. -->
+  <VPE_Acolyte_HolyLightSTNL.description>TODO</VPE_Acolyte_HolyLightSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_HolyLightSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_HolyLightSTNL.jobReportString>
+  <!-- EN: Holy Light -->
+  <VPE_Acolyte_HolyLightSTNL.verbProperties.label>ホーリーライト</VPE_Acolyte_HolyLightSTNL.verbProperties.label>
+
+  <!-- EN: Increase Agility -->
+  <VPE_Acolyte_IncreaseAgiSTNL.label>速度増加</VPE_Acolyte_IncreaseAgiSTNL.label>
+  <!-- EN: Places a temporary buff on the target that increases ATK SPD and movement speed. -->
+  <VPE_Acolyte_IncreaseAgiSTNL.description>TODO</VPE_Acolyte_IncreaseAgiSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_IncreaseAgiSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_IncreaseAgiSTNL.jobReportString>
+  <!-- EN: Increase Agility -->
+  <VPE_Acolyte_IncreaseAgiSTNL.verbProperties.label>速度増加</VPE_Acolyte_IncreaseAgiSTNL.verbProperties.label>
+
+  <!-- EN: Pneuma -->
+  <VPE_Acolyte_PneumaSTNL.label>ニューマ</VPE_Acolyte_PneumaSTNL.label>
+  <!-- EN: Creates a green cloud at the target location that will block projectiles from harming allies that standing nearby. -->
+  <VPE_Acolyte_PneumaSTNL.description>TODO</VPE_Acolyte_PneumaSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_PneumaSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_PneumaSTNL.jobReportString>
+  <!-- EN: Pneuma -->
+  <VPE_Acolyte_PneumaSTNL.verbProperties.label>ニューマ</VPE_Acolyte_PneumaSTNL.verbProperties.label>
+
+  <!-- EN: Ruwach -->
+  <VPE_Acolyte_RuwachSTNL.label>ルアフ</VPE_Acolyte_RuwachSTNL.label>
+  <!-- EN: A flame of holy fire will orbit around the to reveal and damage invisible creatures within the area of effect. -->
+  <VPE_Acolyte_RuwachSTNL.description>TODO</VPE_Acolyte_RuwachSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_RuwachSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_RuwachSTNL.jobReportString>
+  <!-- EN: Ruwach -->
+  <VPE_Acolyte_RuwachSTNL.verbProperties.label>ルアフ</VPE_Acolyte_RuwachSTNL.verbProperties.label>
+
+  <!-- EN: Signum Crucis -->
+  <VPE_Acolyte_SignumCrucisSTNL.label>シグナムクルシス</VPE_Acolyte_SignumCrucisSTNL.label>
+  <!-- EN: Decreases the armor rating of all entities on the map, has a 63% chance to succeed. -->
+  <VPE_Acolyte_SignumCrucisSTNL.description>TODO</VPE_Acolyte_SignumCrucisSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_SignumCrucisSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_SignumCrucisSTNL.jobReportString>
+  <!-- EN: Signum Crucis -->
+  <VPE_Acolyte_SignumCrucisSTNL.verbProperties.label>シグナムクルシス</VPE_Acolyte_SignumCrucisSTNL.verbProperties.label>
+
+  <!-- EN: Teleport -->
+  <VPE_Acolyte_TeleportSTNL.label>テレポート</VPE_Acolyte_TeleportSTNL.label>
+  <!-- EN: Warps the user to a random unfogged and standable cell within their map. -->
+  <VPE_Acolyte_TeleportSTNL.description>TODO</VPE_Acolyte_TeleportSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_TeleportSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_TeleportSTNL.jobReportString>
+  <!-- EN: Teleport -->
+  <VPE_Acolyte_TeleportSTNL.verbProperties.label>テレポート</VPE_Acolyte_TeleportSTNL.verbProperties.label>
+
+  <!-- EN: Warp Portal -->
+  <VPE_Acolyte_WarpPortalSTNL.label>ワープポータル</VPE_Acolyte_WarpPortalSTNL.label>
+  <!-- EN: Teleport everyone standing near the caster to a world tile of your choosing, the teleportation will cause everyone to reappear near an ally within the target map if the latter is occupied. -->
+  <VPE_Acolyte_WarpPortalSTNL.description>TODO</VPE_Acolyte_WarpPortalSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Acolyte_WarpPortalSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_WarpPortalSTNL.jobReportString>
+  <!-- EN: Warp Portal -->
+  <VPE_Acolyte_WarpPortalSTNL.verbProperties.label>ワープポータル</VPE_Acolyte_WarpPortalSTNL.verbProperties.label>
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Acolyte -->
+  <VPE_RagnarokAcolyteSTNL.label>アコライト</VPE_RagnarokAcolyteSTNL.label>
+  <!-- EN: The Acolyte is not merely a support, but the whisper of the divine amidst chaos.\n\nThey walk between light and shadow, not as warriors or sages, but as conduits. Their power stems not from muscle or steel, but from faith, a faith that heals, blesses, and exorcises. -->
+  <VPE_RagnarokAcolyteSTNL.description>TODO</VPE_RagnarokAcolyteSTNL.description>
+  <!-- EN: The Acolyte is not merely a support, but the whisper of the divine amidst chaos.\n\nThey walk between light and shadow, not as warriors or sages, but as conduits. Their power stems not from muscle or steel, but from faith, a faith that heals, blesses, and exorcises. -->
+  <VPE_RagnarokAcolyteSTNL.tooltip>TODO</VPE_RagnarokAcolyteSTNL.tooltip>
+
+  <!-- EN: Archer -->
+  <VPE_RagnarokArcherSTNL.label>アーチャー</VPE_RagnarokArcherSTNL.label>
+  <!-- EN: The Archer watches the battle from afar, calculates the wind, the enemy's rhythm, and lets their shot speak for them.\n\nThey are the all-seeing eye, the steady hand, the silence before the impact. -->
+  <VPE_RagnarokArcherSTNL.description>TODO</VPE_RagnarokArcherSTNL.description>
+  <!-- EN: The Archer watches the battle from afar, calculates the wind, the enemy's rhythm, and lets their shot speak for them.\n\nThey are the all-seeing eye, the steady hand, the silence before the impact. -->
+  <VPE_RagnarokArcherSTNL.tooltip>TODO</VPE_RagnarokArcherSTNL.tooltip>
+
+  <!-- EN: Mage -->
+  <VPE_RagnarokMagicianSTNL.label>マジシャン</VPE_RagnarokMagicianSTNL.label>
+  <!-- EN: The Mage is the reflection of a life devoted to study, the echo of elemental forces that refuse to be contained.\n\nThey walk with the arrogance of one who knows secrets that could split mountains, yet with the same fragility as the pages of the books they studied. -->
+  <VPE_RagnarokMagicianSTNL.description>TODO</VPE_RagnarokMagicianSTNL.description>
+  <!-- EN: The Mage is the reflection of a life devoted to study, the echo of elemental forces that refuse to be contained.\n\nThey walk with the arrogance of one who knows secrets that could split mountains, yet with the same fragility as the pages of the books they studied. -->
+  <VPE_RagnarokMagicianSTNL.tooltip>TODO</VPE_RagnarokMagicianSTNL.tooltip>
+
+  <!-- EN: Merchant -->
+  <VPE_RagnarokMerchantSTNL.label>マーチャント</VPE_RagnarokMerchantSTNL.label>
+  <!-- EN: The Merchant is a walking paradox, a trader who ventures into battlefields, a money strategist who carries a cart as if it were their banner.\n\nThey don't fight for glory or justice, they fight for profitability. -->
+  <VPE_RagnarokMerchantSTNL.description>TODO</VPE_RagnarokMerchantSTNL.description>
+  <!-- EN: The Merchant is a walking paradox, a trader who ventures into battlefields, a money strategist who carries a cart as if it were their banner.\n\nThey don't fight for glory or justice, they fight for profitability. -->
+  <VPE_RagnarokMerchantSTNL.tooltip>TODO</VPE_RagnarokMerchantSTNL.tooltip>
+
+  <!-- EN: Swordsman -->
+  <VPE_RagnarokSwordsmanSTNL.label>ソードマン</VPE_RagnarokSwordsmanSTNL.label>
+  <!-- EN: The Swordsman is the warrior, the archetype of the primal impulse, the front line that acts first and asks later.\n\nThey are willpower embodied in steel, unafraid to bleed if it means paving the way for others. -->
+  <VPE_RagnarokSwordsmanSTNL.description>TODO</VPE_RagnarokSwordsmanSTNL.description>
+  <!-- EN: The Swordsman is the warrior, the archetype of the primal impulse, the front line that acts first and asks later.\n\nThey are willpower embodied in steel, unafraid to bleed if it means paving the way for others. -->
+  <VPE_RagnarokSwordsmanSTNL.tooltip>TODO</VPE_RagnarokSwordsmanSTNL.tooltip>
+
+  <!-- EN: Thief -->
+  <VPE_RagnarokThiefSTNL.label>シーフ</VPE_RagnarokThiefSTNL.label>
+  <!-- EN: The Thief is the shadow that laughs while the world is distracted. Not merely a robber, they are the art of evasion made flesh, the unseen edge, the whisper that precedes the poison. -->
+  <VPE_RagnarokThiefSTNL.description>TODO</VPE_RagnarokThiefSTNL.description>
+  <!-- EN: The Thief is the shadow that laughs while the world is distracted. Not merely a robber, they are the art of evasion made flesh, the unseen edge, the whisper that precedes the poison. -->
+  <VPE_RagnarokThiefSTNL.tooltip>TODO</VPE_RagnarokThiefSTNL.tooltip>
+
+</LanguageData>

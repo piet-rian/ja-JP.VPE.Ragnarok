@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: flameball -->
+  <VPE_Flameball_Ragna_STNL.label>ファイアーボール</VPE_Flameball_Ragna_STNL.label>
+  <!-- EN: . -->
+  <VPE_Flameball_Ragna_STNL.description>TODO</VPE_Flameball_Ragna_STNL.description>
+
+  <!-- EN: Fire Wall -->
+  <VPE_Ragnarok_Magician_FireWallSTNL.label>ファイアーウィール</VPE_Ragnarok_Magician_FireWallSTNL.label>
+
+  <!-- EN: Charge Anomaly -->
+  <VPE_Ragnarok_Magician_LightningBoltSpawnerSTNL.label>TODO</VPE_Ragnarok_Magician_LightningBoltSpawnerSTNL.label>
+
+  <!-- EN: Safety Wall -->
+  <VPE_Ragnarok_Magician_SafetyWallThingSTNL.label>セイフティウォール</VPE_Ragnarok_Magician_SafetyWallThingSTNL.label>
+
+</LanguageData>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Back Slide -->
+  <VPE_Thief_BackSlideSTNL.label>バックステップ</VPE_Thief_BackSlideSTNL.label>
+  <!-- EN: Allows the caster to instantly slide to any cell within the range of this ability. -->
+  <VPE_Thief_BackSlideSTNL.description>TODO</VPE_Thief_BackSlideSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_BackSlideSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_BackSlideSTNL.jobReportString>
+  <!-- EN: Back Slide -->
+  <VPE_Thief_BackSlideSTNL.verbProperties.label>バックステップ</VPE_Thief_BackSlideSTNL.verbProperties.label>
+
+  <!-- EN: Detoxify -->
+  <VPE_Thief_DetoxifySTNL.label>解毒</VPE_Thief_DetoxifySTNL.label>
+  <!-- EN: Cures a single target from venom and toxic buildup. -->
+  <VPE_Thief_DetoxifySTNL.description>TODO</VPE_Thief_DetoxifySTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_DetoxifySTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_DetoxifySTNL.jobReportString>
+  <!-- EN: Detoxify -->
+  <VPE_Thief_DetoxifySTNL.verbProperties.label>解毒</VPE_Thief_DetoxifySTNL.verbProperties.label>
+
+  <!-- EN: Envenom -->
+  <VPE_Thief_EnvenomSTNL.label>インベナム</VPE_Thief_EnvenomSTNL.label>
+  <!-- EN: Coats the weapon in poison and strikes the target, has a 50% chance to inflict the target with a deadly poison. Cannot poison creatures that are immune to toxins. -->
+  <VPE_Thief_EnvenomSTNL.description>TODO</VPE_Thief_EnvenomSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_EnvenomSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_EnvenomSTNL.jobReportString>
+  <!-- EN: Envenom -->
+  <VPE_Thief_EnvenomSTNL.verbProperties.label>インベナム</VPE_Thief_EnvenomSTNL.verbProperties.label>
+
+  <!-- EN: Find Stone -->
+  <VPE_Thief_FindStoneSTNL.label>石拾い</VPE_Thief_FindStoneSTNL.label>
+  <!-- EN: Pick up a small stone from the ground. -->
+  <VPE_Thief_FindStoneSTNL.description>TODO</VPE_Thief_FindStoneSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_FindStoneSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_FindStoneSTNL.jobReportString>
+  <!-- EN: Find Stone -->
+  <VPE_Thief_FindStoneSTNL.verbProperties.label>石拾い</VPE_Thief_FindStoneSTNL.verbProperties.label>
+
+  <!-- EN: Hiding -->
+  <VPE_Thief_HidingSTNL.label>ハイディング</VPE_Thief_HidingSTNL.label>
+  <!-- EN: Conceals the caster to avoid enemies, Hiding will end once the duration runs out or psyfocus reaches 0%.\n\nRecasting while active will end the skill early. -->
+  <VPE_Thief_HidingSTNL.description>TODO</VPE_Thief_HidingSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_HidingSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_HidingSTNL.jobReportString>
+  <!-- EN: Hiding -->
+  <VPE_Thief_HidingSTNL.verbProperties.label>ハイディング</VPE_Thief_HidingSTNL.verbProperties.label>
+
+  <!-- EN: Passive: Double Attack -->
+  <VPE_Thief_Passive_DoubleAttackSTNL.label>(P)ダブルアタック</VPE_Thief_Passive_DoubleAttackSTNL.label>
+  <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nThis person will have a 70% chance to land an additional hit when using melee attacks. Additionally increases melee attack speed by 10%. -->
+  <VPE_Thief_Passive_DoubleAttackSTNL.description>TODO</VPE_Thief_Passive_DoubleAttackSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_Passive_DoubleAttackSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_Passive_DoubleAttackSTNL.jobReportString>
+  <!-- EN: Passive: Double Attack -->
+  <VPE_Thief_Passive_DoubleAttackSTNL.verbProperties.label>(P)ダブルアタック</VPE_Thief_Passive_DoubleAttackSTNL.verbProperties.label>
+
+  <!-- EN: Passive: Increased Flee -->
+  <VPE_Thief_Passive_IncreasedFleeSTNL.label>(P)回避率増加</VPE_Thief_Passive_IncreasedFleeSTNL.label>
+  <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nThis person will obtain an increase of 50% to their melee dodge chance. They will additionally gain a 10% increase to movement speed. -->
+  <VPE_Thief_Passive_IncreasedFleeSTNL.description>TODO</VPE_Thief_Passive_IncreasedFleeSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_Passive_IncreasedFleeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_Passive_IncreasedFleeSTNL.jobReportString>
+  <!-- EN: Passive: Increased Flee -->
+  <VPE_Thief_Passive_IncreasedFleeSTNL.verbProperties.label>(P)回避率増加</VPE_Thief_Passive_IncreasedFleeSTNL.verbProperties.label>
+
+  <!-- EN: Sand Attack -->
+  <VPE_Thief_SandAttackSTNL.label>砂まき</VPE_Thief_SandAttackSTNL.label>
+  <!-- EN: Hurls sand at the target, dealing 10 blunt damage. \n\nHas a 10% chance to stun the target for 10 seconds. -->
+  <VPE_Thief_SandAttackSTNL.description>TODO</VPE_Thief_SandAttackSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_SandAttackSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_SandAttackSTNL.jobReportString>
+  <!-- EN: Sand Attack -->
+  <VPE_Thief_SandAttackSTNL.verbProperties.label>砂まき</VPE_Thief_SandAttackSTNL.verbProperties.label>
+
+  <!-- EN: Steal -->
+  <VPE_Thief_StealSTNL.label>スティール</VPE_Thief_StealSTNL.label>
+  <!-- EN: Steal a random item from the target's inventory, once stolen from, the target will gain the "Awareness" condition. Creatures with this condition cannot be stolen from. -->
+  <VPE_Thief_StealSTNL.description>TODO</VPE_Thief_StealSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_StealSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_StealSTNL.jobReportString>
+  <!-- EN: Steal -->
+  <VPE_Thief_StealSTNL.verbProperties.label>スティール</VPE_Thief_StealSTNL.verbProperties.label>
+
+  <!-- EN: Stone Fling -->
+  <VPE_Thief_StoneFlingSTNL.label>石投げ</VPE_Thief_StoneFlingSTNL.label>
+  <!-- EN: Fling one of the carried stone to the target, dealing 15 points of damage.\n\nHas a 5% chance to stun the target for 15 seconds. -->
+  <VPE_Thief_StoneFlingSTNL.description>TODO</VPE_Thief_StoneFlingSTNL.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thief_StoneFlingSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_StoneFlingSTNL.jobReportString>
+  <!-- EN: Stone Fling -->
+  <VPE_Thief_StoneFlingSTNL.verbProperties.label>石投げ</VPE_Thief_StoneFlingSTNL.verbProperties.label>
+
+</LanguageData>

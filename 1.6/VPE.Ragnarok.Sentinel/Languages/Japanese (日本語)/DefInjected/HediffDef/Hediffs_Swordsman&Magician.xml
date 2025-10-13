@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Energy Coat -->
+  <VPE_Ragnarok_Magician_EnergyCoatSTNL.label>エナジーコート</VPE_Ragnarok_Magician_EnergyCoatSTNL.label>
+  <!-- EN: This person is concentrating their psyfocus into a low-energy shield, the effectiveness of this shield will depend on the remaining amount of psyfocus. -->
+  <VPE_Ragnarok_Magician_EnergyCoatSTNL.description>TODO</VPE_Ragnarok_Magician_EnergyCoatSTNL.description>
+
+  <!-- EN: Frozen -->
+  <VPE_Ragnarok_Magician_FrostdiverSTNL.label>フロストダイバー</VPE_Ragnarok_Magician_FrostdiverSTNL.label>
+  <!-- EN: This person has been frozen, they will be unable to move and will have reduced armor efficiency. -->
+  <VPE_Ragnarok_Magician_FrostdiverSTNL.description>TODO</VPE_Ragnarok_Magician_FrostdiverSTNL.description>
+
+  <!-- EN: Increased SP Recovery -->
+  <VPE_Ragnarok_Magician_IncSPRecovSTNL.label>SP回復力向上</VPE_Ragnarok_Magician_IncSPRecovSTNL.label>
+  <!-- EN: This person will recover 10% psyfocus after standing still for 10 seconds. -->
+  <VPE_Ragnarok_Magician_IncSPRecovSTNL.description>TODO</VPE_Ragnarok_Magician_IncSPRecovSTNL.description>
+
+  <!-- EN: Safety Wall -->
+  <VPE_Ragnarok_Magician_SafetyWallSTNL.label>セイフティウォール</VPE_Ragnarok_Magician_SafetyWallSTNL.label>
+  <!-- EN: This creature is being protected by a safety wall and therefore won't take damage from melee attacks. -->
+  <VPE_Ragnarok_Magician_SafetyWallSTNL.description>TODO</VPE_Ragnarok_Magician_SafetyWallSTNL.description>
+
+  <!-- EN: Sight -->
+  <VPE_Ragnarok_Magician_SightSTNL.label>サイト</VPE_Ragnarok_Magician_SightSTNL.label>
+  <!-- EN: This person will reveal nearby invisible creatures. -->
+  <VPE_Ragnarok_Magician_SightSTNL.description>TODO</VPE_Ragnarok_Magician_SightSTNL.description>
+
+  <!-- EN: Stone Curse -->
+  <VPE_Ragnarok_Magician_StoneCurseSTNL.label>ストーンカース</VPE_Ragnarok_Magician_StoneCurseSTNL.label>
+  <!-- EN: This person has been petrified, they will be unable to move and will have reduced armor efficiency. -->
+  <VPE_Ragnarok_Magician_StoneCurseSTNL.description>TODO</VPE_Ragnarok_Magician_StoneCurseSTNL.description>
+
+  <!-- EN: Inactive Berserk -->
+  <VPE_Ragnarok_Swordsman_BerserkOnHoldSTNL.label>オートバーサーク(非活性)</VPE_Ragnarok_Swordsman_BerserkOnHoldSTNL.label>
+  <!-- EN: This person will enter a state of berserk rage once they start bleeding. -->
+  <VPE_Ragnarok_Swordsman_BerserkOnHoldSTNL.description>TODO</VPE_Ragnarok_Swordsman_BerserkOnHoldSTNL.description>
+
+  <!-- EN: Berserk -->
+  <VPE_Ragnarok_Swordsman_BerserkSTNL.label>オートバーサーク</VPE_Ragnarok_Swordsman_BerserkSTNL.label>
+  <!-- EN: This person has entered a state of berserk rage, they will inflict more damage to enemies at the cost of receiving more damage from attacks. -->
+  <VPE_Ragnarok_Swordsman_BerserkSTNL.description>TODO</VPE_Ragnarok_Swordsman_BerserkSTNL.description>
+
+  <!-- EN: Endure -->
+  <VPE_Ragnarok_Swordsman_EndureSTNL.label>インデュア</VPE_Ragnarok_Swordsman_EndureSTNL.label>
+  <!-- EN: This person is enduring damage, allowing them to escape without being slowed.\n\nA maximum of 7 hits may be endured until the effect breaks. -->
+  <VPE_Ragnarok_Swordsman_EndureSTNL.description>TODO</VPE_Ragnarok_Swordsman_EndureSTNL.description>
+
+  <!-- EN: HP Recovery While Moving -->
+  <VPE_Ragnarok_Swordsman_HealingMoveSTNL.label>移動時HP回復</VPE_Ragnarok_Swordsman_HealingMoveSTNL.label>
+  <!-- EN: This person will recover HP at a slower rate than while standing still. -->
+  <VPE_Ragnarok_Swordsman_HealingMoveSTNL.description>TODO</VPE_Ragnarok_Swordsman_HealingMoveSTNL.description>
+
+  <!-- EN: Increase HP Recovery -->
+  <VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.label>HP回復力向上</VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.label>
+  <!-- EN: This person will recover HP at a faster rate while standing still. -->
+  <VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.description>TODO</VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.description>
+  <!-- EN: Inactive -->
+  <VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.stages.Inactive.label>非活性</VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.stages.Inactive.label>
+  <!-- EN: Active -->
+  <VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.stages.Active.label>活性</VPE_Ragnarok_Swordsman_HealingNoMoveSTNL.stages.Active.label>
+
+  <!-- EN: Magnum Break -->
+  <VPE_Ragnarok_Swordsman_MagnumBreakSTNL.label>マグナムブレイク</VPE_Ragnarok_Swordsman_MagnumBreakSTNL.label>
+  <!-- EN: This person will cause a fiery explosion onto anything they hit. -->
+  <VPE_Ragnarok_Swordsman_MagnumBreakSTNL.description>TODO</VPE_Ragnarok_Swordsman_MagnumBreakSTNL.description>
+
+  <!-- EN: Provoked -->
+  <VPE_Ragnarok_Swordsman_ProvokeSTNL.label>プロボック</VPE_Ragnarok_Swordsman_ProvokeSTNL.label>
+  <!-- EN: This creature has been enraged by a swordsman, it will deal increased damage while taking more damage. -->
+  <VPE_Ragnarok_Swordsman_ProvokeSTNL.description>TODO</VPE_Ragnarok_Swordsman_ProvokeSTNL.description>
+
+  <!-- EN: Sword Mastery -->
+  <VPE_Ragnarok_Swordsman_SwordMasterySTNL.label>剣修練</VPE_Ragnarok_Swordsman_SwordMasterySTNL.label>
+  <!-- EN: This person will deal increased damage with melee weapons. -->
+  <VPE_Ragnarok_Swordsman_SwordMasterySTNL.description>TODO</VPE_Ragnarok_Swordsman_SwordMasterySTNL.description>
+
+  <!-- EN: Two Handed Sword Mastery -->
+  <VPE_Ragnarok_Swordsman_TwoHandedSwordMasterySTNL.label>両手剣修練</VPE_Ragnarok_Swordsman_TwoHandedSwordMasterySTNL.label>
+  <!-- EN: This person will deal increased damage with melee weapons. -->
+  <VPE_Ragnarok_Swordsman_TwoHandedSwordMasterySTNL.description>TODO</VPE_Ragnarok_Swordsman_TwoHandedSwordMasterySTNL.description>
+
+</LanguageData>

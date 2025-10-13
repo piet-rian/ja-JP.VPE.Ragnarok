@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Cold Bolt -->
+  <VPE_ColdBoltSNTL.label>コールドボルト</VPE_ColdBoltSNTL.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <VPE_ColdBoltSNTL.deathMessage>爆発によって{0}は死亡した</VPE_ColdBoltSNTL.deathMessage>
+
+</LanguageData>
