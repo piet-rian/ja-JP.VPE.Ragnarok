@@ -4,7 +4,7 @@
   <!-- EN: Cart Revolution -->
   <VPE_Merchant_CartRevolutionSTNL.label>カートレボリューション</VPE_Merchant_CartRevolutionSTNL.label>
   <!-- EN: Dumps the carried cart on the target creature, inflicting damage depending on the total mass of items carried by the caster divided by 2 to creatures standing nearby, will additionally push back creatures within the area of effect.\n\nThis action will destroy the current cart. -->
-  <VPE_Merchant_CartRevolutionSTNL.description>TODO</VPE_Merchant_CartRevolutionSTNL.description>
+  <VPE_Merchant_CartRevolutionSTNL.description>所持しているカートを対象に投げつけ、周囲の存在に対して所持品の総質量÷2に応じたダメージを与え、範囲内の存在を押し戻します。使用後、カートは破壊されます。</VPE_Merchant_CartRevolutionSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_CartRevolutionSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_CartRevolutionSTNL.jobReportString>
   <!-- EN: Cart Revolution -->
@@ -13,7 +13,7 @@
   <!-- EN: Change Pushcart Appearance -->
   <VPE_Merchant_ChangePushCartSTNL.label>チェンジカート</VPE_Merchant_ChangePushCartSTNL.label>
   <!-- EN: Changes the appearance of the pushcart. -->
-  <VPE_Merchant_ChangePushCartSTNL.description>TODO</VPE_Merchant_ChangePushCartSTNL.description>
+  <VPE_Merchant_ChangePushCartSTNL.description>カートの外観を変更します。</VPE_Merchant_ChangePushCartSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_ChangePushCartSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_ChangePushCartSTNL.jobReportString>
   <!-- EN: Change Pushcart Appearance -->
@@ -22,7 +22,7 @@
   <!-- EN: Crazy Uproar -->
   <VPE_Merchant_CrazyUproarSTNL.label>ラウドボイス</VPE_Merchant_CrazyUproarSTNL.label>
   <!-- EN: Shout loudly to increase every allies' attack power. -->
-  <VPE_Merchant_CrazyUproarSTNL.description>TODO</VPE_Merchant_CrazyUproarSTNL.description>
+  <VPE_Merchant_CrazyUproarSTNL.description>大声で叫んで味方全体の攻撃力を増加させます。</VPE_Merchant_CrazyUproarSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_CrazyUproarSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_CrazyUproarSTNL.jobReportString>
   <!-- EN: Crazy Uproar -->
@@ -31,7 +31,7 @@
   <!-- EN: Decorate Cart -->
   <VPE_Merchant_DecorateCartSTNL.label>カートデコレーション</VPE_Merchant_DecorateCartSTNL.label>
   <!-- EN: Decorate the current cart, this will cause the caster to gain increased beauty and prisoner recruitment efficiency. -->
-  <VPE_Merchant_DecorateCartSTNL.description>TODO</VPE_Merchant_DecorateCartSTNL.description>
+  <VPE_Merchant_DecorateCartSTNL.description>現在のカートを飾り付け、キャスターの美観と囚人リクルート効率を向上させます。</VPE_Merchant_DecorateCartSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_DecorateCartSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_DecorateCartSTNL.jobReportString>
   <!-- EN: Decorate Cart -->
@@ -40,7 +40,7 @@
   <!-- EN: Passive: Discount -->
   <VPE_Merchant_DiscountSTNL.label>(P)ディスカウント</VPE_Merchant_DiscountSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nAllows this person to get better prices while trading. -->
-  <VPE_Merchant_DiscountSTNL.description>TODO</VPE_Merchant_DiscountSTNL.description>
+  <VPE_Merchant_DiscountSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。取引時により良い価格を得られます。</VPE_Merchant_DiscountSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_DiscountSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_DiscountSTNL.jobReportString>
   <!-- EN: Passive: Discount -->
@@ -49,7 +49,7 @@
   <!-- EN: Mammonite -->
   <VPE_Merchant_MammoniteSTNL.label>メマーナイト</VPE_Merchant_MammoniteSTNL.label>
   <!-- EN: Substracts 1k silver from the caster's inventory to strike the target with the power of greed, instantly killing them. -->
-  <VPE_Merchant_MammoniteSTNL.description>TODO</VPE_Merchant_MammoniteSTNL.description>
+  <VPE_Merchant_MammoniteSTNL.description>キャスターの所持品から1000シルバーを消費して貪欲の力で対象を攻撃し、即死させます。</VPE_Merchant_MammoniteSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_MammoniteSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_MammoniteSTNL.jobReportString>
   <!-- EN: Mammonite -->
@@ -58,7 +58,7 @@
   <!-- EN: Passive: Overcharge -->
   <VPE_Merchant_OverchargeSTNL.label>(P)オーバーチャージ</VPE_Merchant_OverchargeSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nAllows this person to get even better prices while trading. -->
-  <VPE_Merchant_OverchargeSTNL.description>TODO</VPE_Merchant_OverchargeSTNL.description>
+  <VPE_Merchant_OverchargeSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。取引時にさらに有利な価格を得られます。</VPE_Merchant_OverchargeSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_OverchargeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_OverchargeSTNL.jobReportString>
   <!-- EN: Passive: Overcharge -->
@@ -67,7 +67,7 @@
   <!-- EN: Passive: Carry Weight Increase -->
   <VPE_Merchant_PassiveCarryWeightSTNL.label>(P)所持限界量増加</VPE_Merchant_PassiveCarryWeightSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nIncreases carry weight and caravan mass carrying capacity by 3 times the normal amount. -->
-  <VPE_Merchant_PassiveCarryWeightSTNL.description>TODO</VPE_Merchant_PassiveCarryWeightSTNL.description>
+  <VPE_Merchant_PassiveCarryWeightSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。所持重量とキャラバンの耐荷重が通常の3倍に増加します。</VPE_Merchant_PassiveCarryWeightSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_PassiveCarryWeightSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_PassiveCarryWeightSTNL.jobReportString>
   <!-- EN: Passive: Carry Weight Increase -->
@@ -76,7 +76,7 @@
   <!-- EN: Pushcart -->
   <VPE_Merchant_PushCartSTNL.label>プッシュカート</VPE_Merchant_PushCartSTNL.label>
   <!-- EN: Allows the caster to summon a pushcart that will further increase their carrying capacity. -->
-  <VPE_Merchant_PushCartSTNL.description>TODO</VPE_Merchant_PushCartSTNL.description>
+  <VPE_Merchant_PushCartSTNL.description>キャスターが荷物運搬用のカートを召喚し、所持容量を増加させます。</VPE_Merchant_PushCartSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_PushCartSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_PushCartSTNL.jobReportString>
   <!-- EN: Pushcart -->
@@ -85,7 +85,7 @@
   <!-- EN: Repair -->
   <VPE_Merchant_RepairItemSTNL.label>装備品修理</VPE_Merchant_RepairItemSTNL.label>
   <!-- EN: Fully repair everything within the target's inventory.\n\nMay also be used to repair mechanoids. -->
-  <VPE_Merchant_RepairItemSTNL.description>TODO</VPE_Merchant_RepairItemSTNL.description>
+  <VPE_Merchant_RepairItemSTNL.description>対象の所持品内のすべてを完全修理します。メカノイドの修理にも使用できます。</VPE_Merchant_RepairItemSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_RepairItemSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_RepairItemSTNL.jobReportString>
   <!-- EN: Repair -->

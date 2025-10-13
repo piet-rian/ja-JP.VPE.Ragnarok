@@ -4,13 +4,13 @@
   <!-- EN: flameball -->
   <VPE_Flameball_Ragna_STNL.label>ファイアーボール</VPE_Flameball_Ragna_STNL.label>
   <!-- EN: . -->
-  <VPE_Flameball_Ragna_STNL.description>TODO</VPE_Flameball_Ragna_STNL.description>
+  <VPE_Flameball_Ragna_STNL.description>炎の球を放つ呪文効果。対象とその周辺に火ダメージを与えます。</VPE_Flameball_Ragna_STNL.description>
 
   <!-- EN: Fire Wall -->
-  <VPE_Ragnarok_Magician_FireWallSTNL.label>ファイアーウィール</VPE_Ragnarok_Magician_FireWallSTNL.label>
+  <VPE_Ragnarok_Magician_FireWallSTNL.label>ファイアーウォール</VPE_Ragnarok_Magician_FireWallSTNL.label>
 
   <!-- EN: Charge Anomaly -->
-  <VPE_Ragnarok_Magician_LightningBoltSpawnerSTNL.label>TODO</VPE_Ragnarok_Magician_LightningBoltSpawnerSTNL.label>
+  <VPE_Ragnarok_Magician_LightningBoltSpawnerSTNL.label>チャージ異常</VPE_Ragnarok_Magician_LightningBoltSpawnerSTNL.label>
 
   <!-- EN: Safety Wall -->
   <VPE_Ragnarok_Magician_SafetyWallThingSTNL.label>セイフティウォール</VPE_Ragnarok_Magician_SafetyWallThingSTNL.label>

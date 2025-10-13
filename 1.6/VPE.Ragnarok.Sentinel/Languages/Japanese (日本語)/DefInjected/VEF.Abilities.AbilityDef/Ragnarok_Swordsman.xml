@@ -4,25 +4,25 @@
   <!-- EN: Bash -->
   <VPE_Swordsman_BashSTNL.label>バッシュ</VPE_Swordsman_BashSTNL.label>
   <!-- EN: Hit an enemy with crushing force, Bash will have a 25% chance to stun the target for 2 seconds. -->
-  <VPE_Swordsman_BashSTNL.description>TODO</VPE_Swordsman_BashSTNL.description>
+  <VPE_Swordsman_BashSTNL.description>強烈な一撃で敵を攻撃します。25%の確率で2秒間対象を気絶させます。</VPE_Swordsman_BashSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_BashSTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_BashSTNL.jobReportString>
   <!-- EN: Bash -->
   <VPE_Swordsman_BashSTNL.verbProperties.label>バッシュ</VPE_Swordsman_BashSTNL.verbProperties.label>
 
   <!-- EN: Berserk -->
-  <VPE_Swordsman_BerserkSTNL.label>TODO</VPE_Swordsman_BerserkSTNL.label>
+  <VPE_Swordsman_BerserkSTNL.label>バーサーク</VPE_Swordsman_BerserkSTNL.label>
   <!-- EN: Suffering from a bleeding wound will enrage the caster, causing them to enter a berserk state and granting them increased attack at the cost of suffering more damage from hits. -->
-  <VPE_Swordsman_BerserkSTNL.description>TODO</VPE_Swordsman_BerserkSTNL.description>
+  <VPE_Swordsman_BerserkSTNL.description>出血の傷で激怒し、バーサーク状態になって攻撃力が上がる代わりに被ダメージが増加します。</VPE_Swordsman_BerserkSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_BerserkSTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_BerserkSTNL.jobReportString>
   <!-- EN: Berserk -->
-  <VPE_Swordsman_BerserkSTNL.verbProperties.label>TODO</VPE_Swordsman_BerserkSTNL.verbProperties.label>
+  <VPE_Swordsman_BerserkSTNL.verbProperties.label>バーサーク</VPE_Swordsman_BerserkSTNL.verbProperties.label>
 
   <!-- EN: Endure -->
   <VPE_Swordsman_EndureSTNL.label>インデュア</VPE_Swordsman_EndureSTNL.label>
   <!-- EN: Endure up to 7 hits, allowing the caster to keep moving and attacking should they be hit, Endure will additionally grant a 10% reduction to any incoming damage. -->
-  <VPE_Swordsman_EndureSTNL.description>TODO</VPE_Swordsman_EndureSTNL.description>
+  <VPE_Swordsman_EndureSTNL.description>最大7回の攻撃を耐え、被弾しても移動や攻撃を続行できます。さらに受けるダメージを10%軽減します。</VPE_Swordsman_EndureSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_EndureSTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_EndureSTNL.jobReportString>
   <!-- EN: Endure -->
@@ -31,7 +31,7 @@
   <!-- EN: Passive: Increase HP recovery -->
   <VPE_Swordsman_HPRecoverySTNL.label>(P)HP回復力向上</VPE_Swordsman_HPRecoverySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nEnhance natural HP recovery, health regeneration will not happen if the caster is moving. -->
-  <VPE_Swordsman_HPRecoverySTNL.description>TODO</VPE_Swordsman_HPRecoverySTNL.description>
+  <VPE_Swordsman_HPRecoverySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。自然回復を強化します（移動中は回復しません）。</VPE_Swordsman_HPRecoverySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_HPRecoverySTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_HPRecoverySTNL.jobReportString>
   <!-- EN: Passive: Increase HP recovery -->
@@ -40,7 +40,7 @@
   <!-- EN: Passive: HP Recovery While Moving -->
   <VPE_Swordsman_HPRecoveryWhileMovingSTNL.label>(P)移動時HP回復</VPE_Swordsman_HPRecoveryWhileMovingSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nAllow the caster to regenerate health while moving at a lower rate than while standing still. -->
-  <VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>TODO</VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>
+  <VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。移動中でも低速でHPが回復します。</VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_HPRecoveryWhileMovingSTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_HPRecoveryWhileMovingSTNL.jobReportString>
   <!-- EN: Passive: HP Recovery While Moving -->
@@ -49,7 +49,7 @@
   <!-- EN: Magnum Break -->
   <VPE_Swordsman_MagnumBreakSTNL.label>マグナムブレイク</VPE_Swordsman_MagnumBreakSTNL.label>
   <!-- EN: Deal a minor wound to the caster in order to inflict heat damage on nearby enemies and force them backward. The caster's weapon will conjure fiery explosions for 10 seconds after using this ability. -->
-  <VPE_Swordsman_MagnumBreakSTNL.description>TODO</VPE_Swordsman_MagnumBreakSTNL.description>
+  <VPE_Swordsman_MagnumBreakSTNL.description>自身に小さな傷を負う代わりに周囲の敵に火ダメージを与え、後退させます。使用後10秒間、武器が炎の爆発を発生させます。</VPE_Swordsman_MagnumBreakSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_MagnumBreakSTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_MagnumBreakSTNL.jobReportString>
   <!-- EN: Magnum Break -->
@@ -58,7 +58,7 @@
   <!-- EN: Provoke -->
   <VPE_Swordsman_ProvokeSTNL.label>プロボック</VPE_Swordsman_ProvokeSTNL.label>
   <!-- EN: Enrage a single target, greatly reducing its defense while slightly increasing its damage output.\n\n80% success chance. -->
-  <VPE_Swordsman_ProvokeSTNL.description>TODO</VPE_Swordsman_ProvokeSTNL.description>
+  <VPE_Swordsman_ProvokeSTNL.description>単体の対象を挑発して防御力を大幅に低下させ、攻撃力をわずかに増加させます。成功率80%。</VPE_Swordsman_ProvokeSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_ProvokeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_ProvokeSTNL.jobReportString>
   <!-- EN: Provoke -->
@@ -67,7 +67,7 @@
   <!-- EN: Passive: Sword Mastery -->
   <VPE_Swordsman_SwordMasterySTNL.label>(P)剣修練</VPE_Swordsman_SwordMasterySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nDeal increased damage with melee attacks. -->
-  <VPE_Swordsman_SwordMasterySTNL.description>TODO</VPE_Swordsman_SwordMasterySTNL.description>
+  <VPE_Swordsman_SwordMasterySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接攻撃の与ダメージが増加します。</VPE_Swordsman_SwordMasterySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_SwordMasterySTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_SwordMasterySTNL.jobReportString>
   <!-- EN: Passive: Sword Mastery -->
@@ -76,7 +76,7 @@
   <!-- EN: Passive: Two Handed Sword Mastery -->
   <VPE_Swordsman_TwoHandedSwordMasterySTNL.label>(P)両手剣修練</VPE_Swordsman_TwoHandedSwordMasterySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nDeal increased damage with melee attacks. -->
-  <VPE_Swordsman_TwoHandedSwordMasterySTNL.description>TODO</VPE_Swordsman_TwoHandedSwordMasterySTNL.description>
+  <VPE_Swordsman_TwoHandedSwordMasterySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接攻撃の与ダメージが増加します。</VPE_Swordsman_TwoHandedSwordMasterySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_TwoHandedSwordMasterySTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_TwoHandedSwordMasterySTNL.jobReportString>
   <!-- EN: Passive: Two Handed Sword Mastery -->

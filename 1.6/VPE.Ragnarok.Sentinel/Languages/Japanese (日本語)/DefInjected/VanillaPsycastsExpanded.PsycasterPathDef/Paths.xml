@@ -4,43 +4,43 @@
   <!-- EN: Acolyte -->
   <VPE_RagnarokAcolyteSTNL.label>アコライト</VPE_RagnarokAcolyteSTNL.label>
   <!-- EN: The Acolyte is not merely a support, but the whisper of the divine amidst chaos.\n\nThey walk between light and shadow, not as warriors or sages, but as conduits. Their power stems not from muscle or steel, but from faith, a faith that heals, blesses, and exorcises. -->
-  <VPE_RagnarokAcolyteSTNL.description>TODO</VPE_RagnarokAcolyteSTNL.description>
+  <VPE_RagnarokAcolyteSTNL.description>アコライトは単なる支援役ではなく、混沌の中に響く神の囁きです。光と影の狭間を行き来し、戦士や賢者ではなく力の導管として仲間を癒し、祝福し、祓います。</VPE_RagnarokAcolyteSTNL.description>
   <!-- EN: The Acolyte is not merely a support, but the whisper of the divine amidst chaos.\n\nThey walk between light and shadow, not as warriors or sages, but as conduits. Their power stems not from muscle or steel, but from faith, a faith that heals, blesses, and exorcises. -->
-  <VPE_RagnarokAcolyteSTNL.tooltip>TODO</VPE_RagnarokAcolyteSTNL.tooltip>
+  <VPE_RagnarokAcolyteSTNL.tooltip>アコライト：信仰を力に変え、仲間を癒し守る者。</VPE_RagnarokAcolyteSTNL.tooltip>
 
   <!-- EN: Archer -->
   <VPE_RagnarokArcherSTNL.label>アーチャー</VPE_RagnarokArcherSTNL.label>
   <!-- EN: The Archer watches the battle from afar, calculates the wind, the enemy's rhythm, and lets their shot speak for them.\n\nThey are the all-seeing eye, the steady hand, the silence before the impact. -->
-  <VPE_RagnarokArcherSTNL.description>TODO</VPE_RagnarokArcherSTNL.description>
+  <VPE_RagnarokArcherSTNL.description>アーチャーは戦場を遠方から見据え、風や敵のリズムを読み、一射で物語を語ります。全てを見通す眼差しと、確かな射撃が彼らの武器です。</VPE_RagnarokArcherSTNL.description>
   <!-- EN: The Archer watches the battle from afar, calculates the wind, the enemy's rhythm, and lets their shot speak for them.\n\nThey are the all-seeing eye, the steady hand, the silence before the impact. -->
-  <VPE_RagnarokArcherSTNL.tooltip>TODO</VPE_RagnarokArcherSTNL.tooltip>
+  <VPE_RagnarokArcherSTNL.tooltip>遠距離から戦況を制し、一射で決着を付ける射手。</VPE_RagnarokArcherSTNL.tooltip>
 
   <!-- EN: Mage -->
   <VPE_RagnarokMagicianSTNL.label>マジシャン</VPE_RagnarokMagicianSTNL.label>
   <!-- EN: The Mage is the reflection of a life devoted to study, the echo of elemental forces that refuse to be contained.\n\nThey walk with the arrogance of one who knows secrets that could split mountains, yet with the same fragility as the pages of the books they studied. -->
-  <VPE_RagnarokMagicianSTNL.description>TODO</VPE_RagnarokMagicianSTNL.description>
+  <VPE_RagnarokMagicianSTNL.description>マジシャンは研鑽に捧げられた生涯の反映であり、元素の力の反響です。山をも裂く秘密を知る者の高慢をまといながらも、学んだ書物の頁のように脆い存在でもあります。</VPE_RagnarokMagicianSTNL.description>
   <!-- EN: The Mage is the reflection of a life devoted to study, the echo of elemental forces that refuse to be contained.\n\nThey walk with the arrogance of one who knows secrets that could split mountains, yet with the same fragility as the pages of the books they studied. -->
-  <VPE_RagnarokMagicianSTNL.tooltip>TODO</VPE_RagnarokMagicianSTNL.tooltip>
+  <VPE_RagnarokMagicianSTNL.tooltip>魔術と元素を操る者。強力だが脆さを抱える研究者。</VPE_RagnarokMagicianSTNL.tooltip>
 
   <!-- EN: Merchant -->
   <VPE_RagnarokMerchantSTNL.label>マーチャント</VPE_RagnarokMerchantSTNL.label>
   <!-- EN: The Merchant is a walking paradox, a trader who ventures into battlefields, a money strategist who carries a cart as if it were their banner.\n\nThey don't fight for glory or justice, they fight for profitability. -->
-  <VPE_RagnarokMerchantSTNL.description>TODO</VPE_RagnarokMerchantSTNL.description>
+  <VPE_RagnarokMerchantSTNL.description>マーチャントは戦場に踏み入る商人という逆説を体現する存在で、カートを旗のように掲げて行商します。栄誉や正義のために戦うのではなく、収益のために戦います。</VPE_RagnarokMerchantSTNL.description>
   <!-- EN: The Merchant is a walking paradox, a trader who ventures into battlefields, a money strategist who carries a cart as if it were their banner.\n\nThey don't fight for glory or justice, they fight for profitability. -->
-  <VPE_RagnarokMerchantSTNL.tooltip>TODO</VPE_RagnarokMerchantSTNL.tooltip>
+  <VPE_RagnarokMerchantSTNL.tooltip>取引と利潤を最優先にする商人。</VPE_RagnarokMerchantSTNL.tooltip>
 
   <!-- EN: Swordsman -->
   <VPE_RagnarokSwordsmanSTNL.label>ソードマン</VPE_RagnarokSwordsmanSTNL.label>
   <!-- EN: The Swordsman is the warrior, the archetype of the primal impulse, the front line that acts first and asks later.\n\nThey are willpower embodied in steel, unafraid to bleed if it means paving the way for others. -->
-  <VPE_RagnarokSwordsmanSTNL.description>TODO</VPE_RagnarokSwordsmanSTNL.description>
+  <VPE_RagnarokSwordsmanSTNL.description>ソードマンは前線に立つ戦士であり、本能的衝動の化身です。先に行動し、後に問うその姿は、鋼に宿る意志そのものです。仲間のために血を流すことを恐れません。</VPE_RagnarokSwordsmanSTNL.description>
   <!-- EN: The Swordsman is the warrior, the archetype of the primal impulse, the front line that acts first and asks later.\n\nThey are willpower embodied in steel, unafraid to bleed if it means paving the way for others. -->
-  <VPE_RagnarokSwordsmanSTNL.tooltip>TODO</VPE_RagnarokSwordsmanSTNL.tooltip>
+  <VPE_RagnarokSwordsmanSTNL.tooltip>前線で戦う肉弾戦の専門家。</VPE_RagnarokSwordsmanSTNL.tooltip>
 
   <!-- EN: Thief -->
   <VPE_RagnarokThiefSTNL.label>シーフ</VPE_RagnarokThiefSTNL.label>
   <!-- EN: The Thief is the shadow that laughs while the world is distracted. Not merely a robber, they are the art of evasion made flesh, the unseen edge, the whisper that precedes the poison. -->
-  <VPE_RagnarokThiefSTNL.description>TODO</VPE_RagnarokThiefSTNL.description>
+  <VPE_RagnarokThiefSTNL.description>シーフは世界が油断して笑う影そのものです。単なる盗人ではなく、回避の技術を体現した者であり、見えない刃や毒の前触れとなる囁きです。</VPE_RagnarokThiefSTNL.description>
   <!-- EN: The Thief is the shadow that laughs while the world is distracted. Not merely a robber, they are the art of evasion made flesh, the unseen edge, the whisper that precedes the poison. -->
-  <VPE_RagnarokThiefSTNL.tooltip>TODO</VPE_RagnarokThiefSTNL.tooltip>
+  <VPE_RagnarokThiefSTNL.tooltip>影の中で機を伺い、素早く立ち回る盗賊。</VPE_RagnarokThiefSTNL.tooltip>
 
 </LanguageData>

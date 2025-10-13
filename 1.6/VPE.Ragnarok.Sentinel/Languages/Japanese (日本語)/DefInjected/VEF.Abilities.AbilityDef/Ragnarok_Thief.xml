@@ -4,7 +4,7 @@
   <!-- EN: Back Slide -->
   <VPE_Thief_BackSlideSTNL.label>バックステップ</VPE_Thief_BackSlideSTNL.label>
   <!-- EN: Allows the caster to instantly slide to any cell within the range of this ability. -->
-  <VPE_Thief_BackSlideSTNL.description>TODO</VPE_Thief_BackSlideSTNL.description>
+  <VPE_Thief_BackSlideSTNL.description>このアビリティの範囲内の任意のセルへ即座にスライド移動できます。</VPE_Thief_BackSlideSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_BackSlideSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_BackSlideSTNL.jobReportString>
   <!-- EN: Back Slide -->
@@ -13,7 +13,7 @@
   <!-- EN: Detoxify -->
   <VPE_Thief_DetoxifySTNL.label>解毒</VPE_Thief_DetoxifySTNL.label>
   <!-- EN: Cures a single target from venom and toxic buildup. -->
-  <VPE_Thief_DetoxifySTNL.description>TODO</VPE_Thief_DetoxifySTNL.description>
+  <VPE_Thief_DetoxifySTNL.description>単体の対象から毒と有害蓄積を治療します。</VPE_Thief_DetoxifySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_DetoxifySTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_DetoxifySTNL.jobReportString>
   <!-- EN: Detoxify -->
@@ -22,7 +22,7 @@
   <!-- EN: Envenom -->
   <VPE_Thief_EnvenomSTNL.label>インベナム</VPE_Thief_EnvenomSTNL.label>
   <!-- EN: Coats the weapon in poison and strikes the target, has a 50% chance to inflict the target with a deadly poison. Cannot poison creatures that are immune to toxins. -->
-  <VPE_Thief_EnvenomSTNL.description>TODO</VPE_Thief_EnvenomSTNL.description>
+  <VPE_Thief_EnvenomSTNL.description>武器に毒を塗布して対象を攻撃し、50%の確率で致命的な毒を付与します。毒に免疫のある存在には効果がありません。</VPE_Thief_EnvenomSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_EnvenomSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_EnvenomSTNL.jobReportString>
   <!-- EN: Envenom -->
@@ -31,7 +31,7 @@
   <!-- EN: Find Stone -->
   <VPE_Thief_FindStoneSTNL.label>石拾い</VPE_Thief_FindStoneSTNL.label>
   <!-- EN: Pick up a small stone from the ground. -->
-  <VPE_Thief_FindStoneSTNL.description>TODO</VPE_Thief_FindStoneSTNL.description>
+  <VPE_Thief_FindStoneSTNL.description>地面から小石を拾います。</VPE_Thief_FindStoneSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_FindStoneSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_FindStoneSTNL.jobReportString>
   <!-- EN: Find Stone -->
@@ -40,7 +40,7 @@
   <!-- EN: Hiding -->
   <VPE_Thief_HidingSTNL.label>ハイディング</VPE_Thief_HidingSTNL.label>
   <!-- EN: Conceals the caster to avoid enemies, Hiding will end once the duration runs out or psyfocus reaches 0%.\n\nRecasting while active will end the skill early. -->
-  <VPE_Thief_HidingSTNL.description>TODO</VPE_Thief_HidingSTNL.description>
+  <VPE_Thief_HidingSTNL.description>敵から身を隠します。効果は持続時間が切れるかサイフォーカスが0%になると終了します。再キャストすると早期に終了します。</VPE_Thief_HidingSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_HidingSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_HidingSTNL.jobReportString>
   <!-- EN: Hiding -->
@@ -49,7 +49,7 @@
   <!-- EN: Passive: Double Attack -->
   <VPE_Thief_Passive_DoubleAttackSTNL.label>(P)ダブルアタック</VPE_Thief_Passive_DoubleAttackSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nThis person will have a 70% chance to land an additional hit when using melee attacks. Additionally increases melee attack speed by 10%. -->
-  <VPE_Thief_Passive_DoubleAttackSTNL.description>TODO</VPE_Thief_Passive_DoubleAttackSTNL.description>
+  <VPE_Thief_Passive_DoubleAttackSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接攻撃時に70%の確率で追加攻撃が発生し、近接攻撃速度が10%上昇します。</VPE_Thief_Passive_DoubleAttackSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_Passive_DoubleAttackSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_Passive_DoubleAttackSTNL.jobReportString>
   <!-- EN: Passive: Double Attack -->
@@ -58,7 +58,7 @@
   <!-- EN: Passive: Increased Flee -->
   <VPE_Thief_Passive_IncreasedFleeSTNL.label>(P)回避率増加</VPE_Thief_Passive_IncreasedFleeSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nThis person will obtain an increase of 50% to their melee dodge chance. They will additionally gain a 10% increase to movement speed. -->
-  <VPE_Thief_Passive_IncreasedFleeSTNL.description>TODO</VPE_Thief_Passive_IncreasedFleeSTNL.description>
+  <VPE_Thief_Passive_IncreasedFleeSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接回避率が50%増加し、移動速度が10%上昇します。</VPE_Thief_Passive_IncreasedFleeSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_Passive_IncreasedFleeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_Passive_IncreasedFleeSTNL.jobReportString>
   <!-- EN: Passive: Increased Flee -->
@@ -67,7 +67,7 @@
   <!-- EN: Sand Attack -->
   <VPE_Thief_SandAttackSTNL.label>砂まき</VPE_Thief_SandAttackSTNL.label>
   <!-- EN: Hurls sand at the target, dealing 10 blunt damage. \n\nHas a 10% chance to stun the target for 10 seconds. -->
-  <VPE_Thief_SandAttackSTNL.description>TODO</VPE_Thief_SandAttackSTNL.description>
+  <VPE_Thief_SandAttackSTNL.description>対象に砂を投げて打撃10を与えます。10%の確率で10秒間気絶させます。</VPE_Thief_SandAttackSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_SandAttackSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_SandAttackSTNL.jobReportString>
   <!-- EN: Sand Attack -->
@@ -76,7 +76,7 @@
   <!-- EN: Steal -->
   <VPE_Thief_StealSTNL.label>スティール</VPE_Thief_StealSTNL.label>
   <!-- EN: Steal a random item from the target's inventory, once stolen from, the target will gain the "Awareness" condition. Creatures with this condition cannot be stolen from. -->
-  <VPE_Thief_StealSTNL.description>TODO</VPE_Thief_StealSTNL.description>
+  <VPE_Thief_StealSTNL.description>対象の所持品からランダムなアイテムを盗みます。盗まれた対象は「警戒」状態を付与され、この状態の対象からは盗めなくなります。</VPE_Thief_StealSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_StealSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_StealSTNL.jobReportString>
   <!-- EN: Steal -->
@@ -85,7 +85,7 @@
   <!-- EN: Stone Fling -->
   <VPE_Thief_StoneFlingSTNL.label>石投げ</VPE_Thief_StoneFlingSTNL.label>
   <!-- EN: Fling one of the carried stone to the target, dealing 15 points of damage.\n\nHas a 5% chance to stun the target for 15 seconds. -->
-  <VPE_Thief_StoneFlingSTNL.description>TODO</VPE_Thief_StoneFlingSTNL.description>
+  <VPE_Thief_StoneFlingSTNL.description>所持している石を一つ投げつけて15のダメージを与えます。5%の確率で15秒間気絶させます。</VPE_Thief_StoneFlingSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_StoneFlingSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_StoneFlingSTNL.jobReportString>
   <!-- EN: Stone Fling -->

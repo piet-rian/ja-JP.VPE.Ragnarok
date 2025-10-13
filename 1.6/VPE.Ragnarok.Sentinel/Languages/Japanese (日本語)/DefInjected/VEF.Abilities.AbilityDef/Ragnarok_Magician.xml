@@ -4,7 +4,7 @@
   <!-- EN: Cold Bolt -->
   <VPE_Magician_ColdBoltSTNL.label>コールドボルト</VPE_Magician_ColdBoltSTNL.label>
   <!-- EN: Strike an enemy with up to 10 bolts of frigid ice. -->
-  <VPE_Magician_ColdBoltSTNL.description>TODO</VPE_Magician_ColdBoltSTNL.description>
+  <VPE_Magician_ColdBoltSTNL.description>最大10本の冷気の矢を敵に打ち込みます。</VPE_Magician_ColdBoltSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_ColdBoltSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_ColdBoltSTNL.jobReportString>
   <!-- EN: Cold Bolt -->
@@ -13,7 +13,7 @@
   <!-- EN: Energy Coat -->
   <VPE_Magician_EnergyCoatSTNL.label>エナジーコート</VPE_Magician_EnergyCoatSTNL.label>
   <!-- EN: Convert the caster's current psyfocus into a low-energy shield, the effectiveness of this shield will depend on the current amount of the caster's focus. -->
-  <VPE_Magician_EnergyCoatSTNL.description>TODO</VPE_Magician_EnergyCoatSTNL.description>
+  <VPE_Magician_EnergyCoatSTNL.description>現在のサイフォーカスを低エネルギーのシールドに変換します。シールドの効果はキャスターのフォーカス量に依存します。</VPE_Magician_EnergyCoatSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_EnergyCoatSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_EnergyCoatSTNL.jobReportString>
   <!-- EN: Energy Coat -->
@@ -22,7 +22,7 @@
   <!-- EN: Fire Ball -->
   <VPE_Magician_FireBallSTNL.label>ファイアーボール</VPE_Magician_FireBallSTNL.label>
   <!-- EN: Calls forth a fireball to inflict flame damage to all enemies within the area of effect. -->
-  <VPE_Magician_FireBallSTNL.description>TODO</VPE_Magician_FireBallSTNL.description>
+  <VPE_Magician_FireBallSTNL.description>ファイアボールを呼び出し、範囲内のすべての敵に火ダメージを与えます。</VPE_Magician_FireBallSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_FireBallSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_FireBallSTNL.jobReportString>
   <!-- EN: Fire Ball -->
@@ -31,7 +31,7 @@
   <!-- EN: Fire Bolt -->
   <VPE_Magician_FireBoltSTNL.label>ファイアーボルト</VPE_Magician_FireBoltSTNL.label>
   <!-- EN: Attack an enemy with up to 10 fiery bolts to set them ablaze. -->
-  <VPE_Magician_FireBoltSTNL.description>TODO</VPE_Magician_FireBoltSTNL.description>
+  <VPE_Magician_FireBoltSTNL.description>最大10本の火の矢で敵を攻撃し、燃焼状態にします。</VPE_Magician_FireBoltSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_FireBoltSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_FireBoltSTNL.jobReportString>
   <!-- EN: Fire Bolt -->
@@ -40,7 +40,7 @@
   <!-- EN: Fire Wall -->
   <VPE_Magician_FirewallSTNL.label>ファイアーウォール</VPE_Magician_FirewallSTNL.label>
   <!-- EN: Creates a wall of flame on a target location that will inflict 10 points of fire damage and push back anyone that attempts to pass through. -->
-  <VPE_Magician_FirewallSTNL.description>TODO</VPE_Magician_FirewallSTNL.description>
+  <VPE_Magician_FirewallSTNL.description>指定地点に炎の壁を作り、通過しようとする者に火ダメージ10を与え、押し戻します。</VPE_Magician_FirewallSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_FirewallSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_FirewallSTNL.jobReportString>
   <!-- EN: Fire Wall -->
@@ -49,7 +49,7 @@
   <!-- EN: Frost Diver -->
   <VPE_Magician_FrostDiverSTNL.label>フロストダイバー</VPE_Magician_FrostDiverSTNL.label>
   <!-- EN: Inflicts frostbite damage to the target and has a 65% chance to freeze the target for 20 seconds. -->
-  <VPE_Magician_FrostDiverSTNL.description>TODO</VPE_Magician_FrostDiverSTNL.description>
+  <VPE_Magician_FrostDiverSTNL.description>対象に凍傷ダメージを与え、65%の確率で20秒間氷結させます。</VPE_Magician_FrostDiverSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_FrostDiverSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_FrostDiverSTNL.jobReportString>
   <!-- EN: Frost Diver -->
@@ -58,7 +58,7 @@
   <!-- EN: Passive: Increase SP recovery -->
   <VPE_Magician_IncreaseSPRecoverySTNL.label>(P)SP回復力向上</VPE_Magician_IncreaseSPRecoverySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nEnhance Psyfocus recovery, 10% of the caster's psyfocus will be recharged after standing still for 10 seconds. -->
-  <VPE_Magician_IncreaseSPRecoverySTNL.description>TODO</VPE_Magician_IncreaseSPRecoverySTNL.description>
+  <VPE_Magician_IncreaseSPRecoverySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。静止して10秒後にサイフォーカスが10%回復します。</VPE_Magician_IncreaseSPRecoverySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_IncreaseSPRecoverySTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_IncreaseSPRecoverySTNL.jobReportString>
   <!-- EN: Passive: Increase SP recovery -->
@@ -67,7 +67,7 @@
   <!-- EN: Lightning Bolt -->
   <VPE_Magician_LightningBoltSTNL.label>ライトニングボルト</VPE_Magician_LightningBoltSTNL.label>
   <!-- EN: Call forth up to 10 bolts of lightning from the skies to strike at the target location. -->
-  <VPE_Magician_LightningBoltSTNL.description>TODO</VPE_Magician_LightningBoltSTNL.description>
+  <VPE_Magician_LightningBoltSTNL.description>最大10本の雷を天から呼び起こして指定地点を攻撃します。</VPE_Magician_LightningBoltSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_LightningBoltSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_LightningBoltSTNL.jobReportString>
   <!-- EN: Lightning Bolt -->
@@ -76,7 +76,7 @@
   <!-- EN: Napalm Beat -->
   <VPE_Magician_NapalmBeatSTNL.label>ナパームビート</VPE_Magician_NapalmBeatSTNL.label>
   <!-- EN: Strike multiple enemies with psychokinetic energy to inflict psychic damage to all enemies within the area of effect, every target in the AoE will take equal damage. -->
-  <VPE_Magician_NapalmBeatSTNL.description>TODO</VPE_Magician_NapalmBeatSTNL.description>
+  <VPE_Magician_NapalmBeatSTNL.description>念動力で複数の敵を攻撃し、範囲内のすべての敵に同等の精神ダメージを与えます。</VPE_Magician_NapalmBeatSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_NapalmBeatSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_NapalmBeatSTNL.jobReportString>
   <!-- EN: Napalm Beat -->
@@ -85,7 +85,7 @@
   <!-- EN: Safety Wall -->
   <VPE_Magician_SafetyWallSTNL.label>セイフティウォール</VPE_Magician_SafetyWallSTNL.label>
   <!-- EN: Creates a pink light pillar on a targeted location that prevents anyone inside from taking damage from melee attacks. -->
-  <VPE_Magician_SafetyWallSTNL.description>TODO</VPE_Magician_SafetyWallSTNL.description>
+  <VPE_Magician_SafetyWallSTNL.description>指定地点にピンク色の光柱を作り、内部の者が近接攻撃でダメージを受けないようにします。</VPE_Magician_SafetyWallSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_SafetyWallSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_SafetyWallSTNL.jobReportString>
   <!-- EN: Safety Wall -->
@@ -94,7 +94,7 @@
   <!-- EN: Sight -->
   <VPE_Magician_SightSTNL.label>サイト</VPE_Magician_SightSTNL.label>
   <!-- EN: Summon an orb of fire that will orbit around the caster to reveal every invisible creature within the area of effect. -->
-  <VPE_Magician_SightSTNL.description>TODO</VPE_Magician_SightSTNL.description>
+  <VPE_Magician_SightSTNL.description>キャスターの周りを回る炎のオーブを召喚し、範囲内のすべての透明な存在を露見させます。</VPE_Magician_SightSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_SightSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_SightSTNL.jobReportString>
   <!-- EN: Sight -->
@@ -103,7 +103,7 @@
   <!-- EN: Stone Curse -->
   <VPE_Magician_StoneCurseSTNL.label>ストーンカース</VPE_Magician_StoneCurseSTNL.label>
   <!-- EN: Attempt to petrify a single target. Stone curse has a 60% chance to succeed and will last for a day on success. -->
-  <VPE_Magician_StoneCurseSTNL.description>TODO</VPE_Magician_StoneCurseSTNL.description>
+  <VPE_Magician_StoneCurseSTNL.description>単体の対象を石化しようとします。成功率は60%で、成功すると1日持続します。</VPE_Magician_StoneCurseSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_StoneCurseSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_StoneCurseSTNL.jobReportString>
   <!-- EN: Stone Curse -->
@@ -112,7 +112,7 @@
   <!-- EN: Thunder Storm -->
   <VPE_Magician_ThunderstormSTNL.label>サンダーストーム</VPE_Magician_ThunderstormSTNL.label>
   <!-- EN: Conjure a large pillar of lightning to strike the target area. -->
-  <VPE_Magician_ThunderstormSTNL.description>TODO</VPE_Magician_ThunderstormSTNL.description>
+  <VPE_Magician_ThunderstormSTNL.description>指定地点に大きな雷柱を呼び出して攻撃します。</VPE_Magician_ThunderstormSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_ThunderstormSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_ThunderstormSTNL.jobReportString>
   <!-- EN: Thunder Storm -->

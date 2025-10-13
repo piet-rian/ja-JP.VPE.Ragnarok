@@ -4,54 +4,54 @@
   <!-- EN: Arrow Repel -->
   <VPE_Archer_ArrowRepelSTNL.label>チャージアロー</VPE_Archer_ArrowRepelSTNL.label>
   <!-- EN: Shoots the target with a charged shot using the current weapon's projectile, the sheer speed of this projectile will push the target back 4 cells. -->
-  <VPE_Archer_ArrowRepelSTNL.description>TODO</VPE_Archer_ArrowRepelSTNL.description>
+  <VPE_Archer_ArrowRepelSTNL.description>現在の武器の弾を用いたチャージショットで対象を撃ち、弾速により対象を4セル押し戻します。</VPE_Archer_ArrowRepelSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_Archer_ArrowRepelSTNL.jobReportString>TODO</VPE_Archer_ArrowRepelSTNL.jobReportString>
+  <VPE_Archer_ArrowRepelSTNL.jobReportString>アビリティ使用中: {0}</VPE_Archer_ArrowRepelSTNL.jobReportString>
   <!-- EN: Arrow Repel -->
   <VPE_Archer_ArrowRepelSTNL.verbProperties.label>チャージアロー</VPE_Archer_ArrowRepelSTNL.verbProperties.label>
 
   <!-- EN: Arrow Shower -->
   <VPE_Archer_ArrowShowerSTNL.label>アローシャワー</VPE_Archer_ArrowShowerSTNL.label>
   <!-- EN: Shoots a projectile based on the caster's current weapon that will split into 3 for each target within the radius and push them back 2 cells. -->
-  <VPE_Archer_ArrowShowerSTNL.description>TODO</VPE_Archer_ArrowShowerSTNL.description>
+  <VPE_Archer_ArrowShowerSTNL.description>現在の武器の弾を発射し、半径内の各対象に対して3つに分裂して命中した対象を2セル押し戻します。</VPE_Archer_ArrowShowerSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_Archer_ArrowShowerSTNL.jobReportString>TODO</VPE_Archer_ArrowShowerSTNL.jobReportString>
+  <VPE_Archer_ArrowShowerSTNL.jobReportString>アビリティ使用中: {0}</VPE_Archer_ArrowShowerSTNL.jobReportString>
   <!-- EN: Arrow Shower -->
   <VPE_Archer_ArrowShowerSTNL.verbProperties.label>アローシャワー</VPE_Archer_ArrowShowerSTNL.verbProperties.label>
 
   <!-- EN: Double Strafe -->
   <VPE_Archer_DoubleStrafeSTNL.label>ダブルストレイフィング</VPE_Archer_DoubleStrafeSTNL.label>
   <!-- EN: Shoots twice at the target by using the current ranged weapon. -->
-  <VPE_Archer_DoubleStrafeSTNL.description>TODO</VPE_Archer_DoubleStrafeSTNL.description>
+  <VPE_Archer_DoubleStrafeSTNL.description>現在の遠距離武器で対象を二回射撃します。</VPE_Archer_DoubleStrafeSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_Archer_DoubleStrafeSTNL.jobReportString>TODO</VPE_Archer_DoubleStrafeSTNL.jobReportString>
+  <VPE_Archer_DoubleStrafeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Archer_DoubleStrafeSTNL.jobReportString>
   <!-- EN: Double Strafe -->
   <VPE_Archer_DoubleStrafeSTNL.verbProperties.label>ダブルストレイフィング</VPE_Archer_DoubleStrafeSTNL.verbProperties.label>
 
   <!-- EN: Improve Concentration -->
   <VPE_Archer_ImproveConcentrationSTNL.label>集中力向上</VPE_Archer_ImproveConcentrationSTNL.label>
   <!-- EN: Boosts ranged attack speed and accuracy temporarily.\n\nOn cast: Will reveal nearby invisible enemies. -->
-  <VPE_Archer_ImproveConcentrationSTNL.description>TODO</VPE_Archer_ImproveConcentrationSTNL.description>
+  <VPE_Archer_ImproveConcentrationSTNL.description>遠距離攻撃の速度と命中精度を一時的に強化します。使用時に近くの透明な敵を露見させます。</VPE_Archer_ImproveConcentrationSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_Archer_ImproveConcentrationSTNL.jobReportString>TODO</VPE_Archer_ImproveConcentrationSTNL.jobReportString>
+  <VPE_Archer_ImproveConcentrationSTNL.jobReportString>アビリティ使用中: {0}</VPE_Archer_ImproveConcentrationSTNL.jobReportString>
   <!-- EN: Improve Concentration -->
   <VPE_Archer_ImproveConcentrationSTNL.verbProperties.label>集中力向上</VPE_Archer_ImproveConcentrationSTNL.verbProperties.label>
 
   <!-- EN: Passive: Owl's Eye -->
   <VPE_Archer_OwlsEyeSTNL.label>(P)ふくろうの目</VPE_Archer_OwlsEyeSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nGain a 40% increase in shooting accuracy. -->
-  <VPE_Archer_OwlsEyeSTNL.description>TODO</VPE_Archer_OwlsEyeSTNL.description>
+  <VPE_Archer_OwlsEyeSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。射撃の命中精度が40%上昇します。</VPE_Archer_OwlsEyeSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_Archer_OwlsEyeSTNL.jobReportString>TODO</VPE_Archer_OwlsEyeSTNL.jobReportString>
+  <VPE_Archer_OwlsEyeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Archer_OwlsEyeSTNL.jobReportString>
   <!-- EN: Passive: Owl's Eye -->
   <VPE_Archer_OwlsEyeSTNL.verbProperties.label>ふくろうの目</VPE_Archer_OwlsEyeSTNL.verbProperties.label>
 
   <!-- EN: Passive: Vulture's Eye -->
   <VPE_Archer_VuesEyesEyeSTNL.label>(P)ワシの目</VPE_Archer_VuesEyesEyeSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nGain 20% more range with weapons as well as another 40% bonus to accuracy. -->
-  <VPE_Archer_VulturesEyeSTNL.description>TODO</VPE_Archer_VulturesEyeSTNL.description>
+  <VPE_Archer_VulturesEyeSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。射程が20%増加し、命中精度がさらに40%上昇します。</VPE_Archer_VulturesEyeSTNL.description>
   <!-- EN: Using ability: {0} -->
-  <VPE_Archer_VulturesEyeSTNL.jobReportString>TODO</VPE_Archer_VulturesEyeSTNL.jobReportString>
+  <VPE_Archer_VulturesEyeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Archer_VulturesEyeSTNL.jobReportString>
   <!-- EN: Passive: Vulture's Eye -->
   <VPE_Archer_VulturesEyeSTNL.verbProperties.label>(P)ワシの目</VPE_Archer_VulturesEyeSTNL.verbProperties.label>
 
