@@ -71,7 +71,7 @@
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_PassiveCarryWeightSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_PassiveCarryWeightSTNL.jobReportString>
   <!-- EN: Passive: Carry Weight Increase -->
-  <VPE_Merchant_PassiveCarryWeightSTNL.verbProperties.label>TODO</VPE_Merchant_PassiveCarryWeightSTNL.verbProperties.label>
+  <VPE_Merchant_PassiveCarryWeightSTNL.verbProperties.label>(P)所持限界量増加</VPE_Merchant_PassiveCarryWeightSTNL.verbProperties.label>
 
   <!-- EN: Pushcart -->
   <VPE_Merchant_PushCartSTNL.label>プッシュカート</VPE_Merchant_PushCartSTNL.label>

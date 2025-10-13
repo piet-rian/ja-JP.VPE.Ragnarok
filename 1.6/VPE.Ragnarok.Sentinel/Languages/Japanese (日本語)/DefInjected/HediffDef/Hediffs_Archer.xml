@@ -4,16 +4,16 @@
   <!-- EN: Improved Concentration -->
   <VPE_Ragnarok_Archer_ImprovedConcentrationSTNL.label>集中力向上</VPE_Ragnarok_Archer_ImprovedConcentrationSTNL.label>
   <!-- EN: Increased concentration allows this archer to shoot faster and with greater accuracy. -->
-  <VPE_Ragnarok_Archer_ImprovedConcentrationSTNL.description>TODO</VPE_Ragnarok_Archer_ImprovedConcentrationSTNL.description>
+  <VPE_Ragnarok_Archer_ImprovedConcentrationSTNL.description>集中力の向上により、この射手はより速く、より正確に射撃できるようになります。</VPE_Ragnarok_Archer_ImprovedConcentrationSTNL.description>
 
   <!-- EN: Owl's Eye -->
   <VPE_Ragnarok_Archer_OwlsEyeSTNL.label>ふくろうの目</VPE_Ragnarok_Archer_OwlsEyeSTNL.label>
   <!-- EN: This archer can aim better than other people, they also deal more damage with ranged weapons. -->
-  <VPE_Ragnarok_Archer_OwlsEyeSTNL.description>TODO</VPE_Ragnarok_Archer_OwlsEyeSTNL.description>
+  <VPE_Ragnarok_Archer_OwlsEyeSTNL.description>この射手は他の人よりも狙いを定めるのが上手で、遠距離武器でより多くのダメージを与えることもできます。</VPE_Ragnarok_Archer_OwlsEyeSTNL.description>
 
   <!-- EN: Vulture's Eye -->
   <VPE_Ragnarok_Archer_VulturesEyeSTNL.label>ワシの目</VPE_Ragnarok_Archer_VulturesEyeSTNL.label>
   <!-- EN: This archer may reach targets further than other people, they also benefit from an increase in accuracy. -->
-  <VPE_Ragnarok_Archer_VulturesEyeSTNL.description>TODO</VPE_Ragnarok_Archer_VulturesEyeSTNL.description>
+  <VPE_Ragnarok_Archer_VulturesEyeSTNL.description>この射手は他の人よりも遠くの目標に到達でき、精度の向上による恩恵も受けます。</VPE_Ragnarok_Archer_VulturesEyeSTNL.description>
 
 </LanguageData>

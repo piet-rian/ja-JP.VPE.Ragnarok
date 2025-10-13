@@ -4,56 +4,56 @@
   <!-- EN: Angelus -->
   <VPE_Ragnarok_Acolyte_AngelusSTNL.label>アンゼルス</VPE_Ragnarok_Acolyte_AngelusSTNL.label>
   <!-- EN: This creature is being protected by an acolyte, they will receive reduced damage from attacks. -->
-  <VPE_Ragnarok_Acolyte_AngelusSTNL.description>TODO</VPE_Ragnarok_Acolyte_AngelusSTNL.description>
+  <VPE_Ragnarok_Acolyte_AngelusSTNL.description>アコライトによって保護されており、攻撃によるダメージが軽減されます。</VPE_Ragnarok_Acolyte_AngelusSTNL.description>
 
   <!-- EN: Blessing -->
   <VPE_Ragnarok_Acolyte_BlessingBadSTNL.label>闇ブレス</VPE_Ragnarok_Acolyte_BlessingBadSTNL.label>
   <!-- EN: This creature has had their stats increased by an acolyte, they will gain various benefits for the duration of this condition. -->
-  <VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>TODO</VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>
+  <VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>ステータスが低下しており、この状態の持続中はさまざまな悪影響を受けます。</VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>
 
   <!-- EN: Blessing -->
   <VPE_Ragnarok_Acolyte_BlessingGoodSTNL.label>ブレッシング</VPE_Ragnarok_Acolyte_BlessingGoodSTNL.label>
   <!-- EN: This creature has had their stats increased by an acolyte, they will gain various benefits for the duration of this condition. -->
-  <VPE_Ragnarok_Acolyte_BlessingGoodSTNL.description>TODO</VPE_Ragnarok_Acolyte_BlessingGoodSTNL.description>
+  <VPE_Ragnarok_Acolyte_BlessingGoodSTNL.description>ステータスが上昇しており、この状態の持続中はさまざまな恩恵を受けます。</VPE_Ragnarok_Acolyte_BlessingGoodSTNL.description>
 
   <!-- EN: Decreased Agility -->
   <VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.label>速度減少</VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.label>
   <!-- EN: This creature has had their agility decreased by an acolyte, they will move slower for the duration of this condition. -->
-  <VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.description>TODO</VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.description>
+  <VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.description>敏捷性が低下しており、この状態が続く間は移動速度が低下します。</VPE_Ragnarok_Acolyte_DecreaseAgiSTNL.description>
 
   <!-- EN: Demon Bane -->
   <VPE_Ragnarok_Acolyte_DemonBaneSTNL.label>デーモンベイン</VPE_Ragnarok_Acolyte_DemonBaneSTNL.label>
   <!-- EN: This person will deal twice the damage they normally would inflict to entities and mutants. -->
-  <VPE_Ragnarok_Acolyte_DemonBaneSTNL.description>TODO</VPE_Ragnarok_Acolyte_DemonBaneSTNL.description>
+  <VPE_Ragnarok_Acolyte_DemonBaneSTNL.description>この人物は、「存在」とミュータントに対して通常与えるダメージの2倍のダメージを与えます。</VPE_Ragnarok_Acolyte_DemonBaneSTNL.description>
 
   <!-- EN: Divine Protection -->
   <VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.label>ディバインプロテクション</VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.label>
   <!-- EN: This person will weaken enemy entities within a 7 cell radius around themselves, which will reduce their outgoing damage by 30%. -->
-  <VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.description>TODO</VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.description>
+  <VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.description>この人物は、自分の周囲 7 セル半径内の敵対的な「存在」を弱体化させ、それによって敵が与えるダメージを 30% 削減します。</VPE_Ragnarok_Acolyte_DivineProtectionCasterSTNL.description>
 
   <!-- EN: Divine Protection -->
   <VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.label>ディバインプロテクション</VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.label>
   <!-- EN: This entity is being weakened, it will deal reduced damage to other creatures. -->
-  <VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.description>TODO</VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.description>
+  <VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.description>この「存在」は弱体化しており、他のクリーチャーに与えるダメージが減少します。</VPE_Ragnarok_Acolyte_DivineProtectionEntitySTNL.description>
 
   <!-- EN: Increased Agility -->
   <VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.label>速度増加</VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.label>
   <!-- EN: This creature has had their agility increased by an acolyte, they will attack and move faster for the duration of this condition. -->
-  <VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.description>TODO</VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.description>
+  <VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.description>敏捷性が向上しており、この状態が続く間は攻撃や移動が速くなります。</VPE_Ragnarok_Acolyte_IncreaseAgiSTNL.description>
 
   <!-- EN: Pneuma -->
   <VPE_Ragnarok_Acolyte_PneumaHediffSTNL.label>ニューマ</VPE_Ragnarok_Acolyte_PneumaHediffSTNL.label>
   <!-- EN: Custom hediff that handles deletion of nearby projectiles. -->
-  <VPE_Ragnarok_Acolyte_PneumaHediffSTNL.description>TODO</VPE_Ragnarok_Acolyte_PneumaHediffSTNL.description>
+  <VPE_Ragnarok_Acolyte_PneumaHediffSTNL.description>近くの発射物の削除を処理するカスタム hediff。</VPE_Ragnarok_Acolyte_PneumaHediffSTNL.description>
 
   <!-- EN: Ruwach -->
   <VPE_Ragnarok_Acolyte_RuwachSTNL.label>ルアフ</VPE_Ragnarok_Acolyte_RuwachSTNL.label>
   <!-- EN: This person will reveal nearby invisible creatures and inflict 15 points of flame damage to them upon reveal. -->
-  <VPE_Ragnarok_Acolyte_RuwachSTNL.description>TODO</VPE_Ragnarok_Acolyte_RuwachSTNL.description>
+  <VPE_Ragnarok_Acolyte_RuwachSTNL.description>この人物は近くの目に見えない生き物を明らかにし、明らかにした際に 15 ポイントの炎ダメージを与えます。</VPE_Ragnarok_Acolyte_RuwachSTNL.description>
 
   <!-- EN: Signum Crucis -->
   <VPE_Ragnarok_Acolyte_SignumCrucisSTNL.label>シグナムクルシス</VPE_Ragnarok_Acolyte_SignumCrucisSTNL.label>
   <!-- EN: This entity is being weakened severly, it will take massively increase damage for the duration of this condition. -->
-  <VPE_Ragnarok_Acolyte_SignumCrucisSTNL.description>TODO</VPE_Ragnarok_Acolyte_SignumCrucisSTNL.description>
+  <VPE_Ragnarok_Acolyte_SignumCrucisSTNL.description>この「存在」は著しく弱体化しており、この状態の持続中は受けるダメージが大幅に増加します。</VPE_Ragnarok_Acolyte_SignumCrucisSTNL.description>
 
 </LanguageData>
