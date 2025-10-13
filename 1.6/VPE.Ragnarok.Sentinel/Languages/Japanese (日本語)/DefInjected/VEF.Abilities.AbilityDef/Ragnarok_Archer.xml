@@ -47,7 +47,7 @@
   <VPE_Archer_OwlsEyeSTNL.verbProperties.label>ふくろうの目</VPE_Archer_OwlsEyeSTNL.verbProperties.label>
 
   <!-- EN: Passive: Vulture's Eye -->
-  <VPE_Archer_VuesEyesEyeSTNL.label>(P)ワシの目</VPE_Archer_VuesEyesEyeSTNL.label>
+  <VPE_Archer_VulturesEyeSTNL.label>(P)ワシの目</VPE_Archer_VulturesEyeSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nGain 20% more range with weapons as well as another 40% bonus to accuracy. -->
   <VPE_Archer_VulturesEyeSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。射程が20%増加し、命中精度がさらに40%上昇します。</VPE_Archer_VulturesEyeSTNL.description>
   <!-- EN: Using ability: {0} -->
