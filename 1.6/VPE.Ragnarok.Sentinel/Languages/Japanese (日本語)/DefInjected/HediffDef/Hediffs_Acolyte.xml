@@ -8,7 +8,7 @@
 
   <!-- EN: Blessing -->
   <VPE_Ragnarok_Acolyte_BlessingBadSTNL.label>闇ブレス</VPE_Ragnarok_Acolyte_BlessingBadSTNL.label>
-  <!-- EN: This creature has had their stats increased by an acolyte, they will gain various benefits for the duration of this condition. -->
+  <!-- EN: This creature has had their stats decreased by an acolyte, they will have lowered stats for the duration of this condition. -->
   <VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>ステータスが低下しており、この状態の持続中はさまざまな悪影響を受けます。</VPE_Ragnarok_Acolyte_BlessingBadSTNL.description>
 
   <!-- EN: Blessing -->
