@@ -1,6 +1,6 @@
-# VPE - Ragnarok(ja-JP)
+# VPE - Ragnarok Online(ja-JP)
 
-[VPE - Ragnarok](https://steamcommunity.com/sharedfiles/filedetails/?id=3585317973) の自分用日本語化Mod
+[VPE - Ragnarok Online](https://steamcommunity.com/sharedfiles/filedetails/?id=3585317973) の自分用日本語化Mod
 
 [Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させた上で、一部に強めの意訳を施した内容であることを承知の上で使用してください。
 
@@ -27,7 +27,7 @@
 > * Core
 > * DLC群
 > * (翻訳対象がさらに前提としているMod)
-> * VPE - Ragnarok
+> * VPE - Ragnarok Online
 > * **本Mod**
 
 ## MID-SAVE

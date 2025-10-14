@@ -2,7 +2,7 @@
 <ModMetaData>
 
     <packageId>ja.JP.VPE.Ragnarok.Sentinel</packageId>
-    <name>VPE - Ragnarok(ja-JP)</name>
+    <name>VPE - Ragnarok Online(ja-JP)</name>
     <authors>
         <li>piet-rian</li>
         <li>...</li>
@@ -20,7 +20,7 @@
     <modDependencies>
         <li>
             <packageId>VPE.Ragnarok.Sentinel</packageId>
-            <displayName>VPE - Ragnarok</displayName>
+            <displayName>VPE - Ragnarok Online</displayName>
             <steamWorkshopUrl>steam://url/CommunityFilePage/3585317973</steamWorkshopUrl>
         </li>
     </modDependencies>
