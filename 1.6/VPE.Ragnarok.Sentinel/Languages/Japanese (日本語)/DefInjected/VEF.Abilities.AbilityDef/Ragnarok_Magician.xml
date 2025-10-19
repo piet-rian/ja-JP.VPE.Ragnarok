@@ -13,7 +13,7 @@
   <!-- EN: Energy Coat -->
   <VPE_Magician_EnergyCoatSTNL.label>エナジーコート</VPE_Magician_EnergyCoatSTNL.label>
   <!-- EN: Convert the caster's current psyfocus into a low-energy shield, the effectiveness of this shield will depend on the current amount of the caster's focus. -->
-  <VPE_Magician_EnergyCoatSTNL.description>現在のサイフォーカスを低エネルギーのシールドに変換します。シールドの効果はキャスターのフォーカス量に依存します。</VPE_Magician_EnergyCoatSTNL.description>
+  <VPE_Magician_EnergyCoatSTNL.description>現在のサイフォーカスを低エネルギーのシールドに変換します。シールドの効果は術者のフォーカス量に依存します。</VPE_Magician_EnergyCoatSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_EnergyCoatSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_EnergyCoatSTNL.jobReportString>
   <!-- EN: Energy Coat -->
@@ -94,7 +94,7 @@
   <!-- EN: Sight -->
   <VPE_Magician_SightSTNL.label>サイト</VPE_Magician_SightSTNL.label>
   <!-- EN: Summon an orb of fire that will orbit around the caster to reveal every invisible creature within the area of effect. -->
-  <VPE_Magician_SightSTNL.description>キャスターの周りを回る炎のオーブを召喚し、範囲内のすべての透明な存在を露見させます。</VPE_Magician_SightSTNL.description>
+  <VPE_Magician_SightSTNL.description>術者の周りを回る炎のオーブを召喚し、範囲内のすべての透明な存在を露見させます。</VPE_Magician_SightSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_SightSTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_SightSTNL.jobReportString>
   <!-- EN: Sight -->

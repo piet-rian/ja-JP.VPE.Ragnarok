@@ -31,7 +31,7 @@
   <!-- EN: Decorate Cart -->
   <VPE_Merchant_DecorateCartSTNL.label>カートデコレーション</VPE_Merchant_DecorateCartSTNL.label>
   <!-- EN: Decorate the current cart, this will cause the caster to gain increased beauty and prisoner recruitment efficiency. -->
-  <VPE_Merchant_DecorateCartSTNL.description>現在のカートを飾り付け、キャスターの美観と囚人リクルート効率を向上させます。</VPE_Merchant_DecorateCartSTNL.description>
+  <VPE_Merchant_DecorateCartSTNL.description>現在のカートを飾り付け、術者の美観と囚人リクルート効率を向上させます。</VPE_Merchant_DecorateCartSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_DecorateCartSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_DecorateCartSTNL.jobReportString>
   <!-- EN: Decorate Cart -->
@@ -49,7 +49,7 @@
   <!-- EN: Mammonite -->
   <VPE_Merchant_MammoniteSTNL.label>メマーナイト</VPE_Merchant_MammoniteSTNL.label>
   <!-- EN: Substracts 1k silver from the caster's inventory to strike the target with the power of greed, instantly killing them. -->
-  <VPE_Merchant_MammoniteSTNL.description>キャスターの所持品から1000シルバーを消費して貪欲の力で対象を攻撃し、即死させます。</VPE_Merchant_MammoniteSTNL.description>
+  <VPE_Merchant_MammoniteSTNL.description>術者の所持品から1000シルバーを消費して貪欲の力で対象を攻撃し、即死させます。</VPE_Merchant_MammoniteSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_MammoniteSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_MammoniteSTNL.jobReportString>
   <!-- EN: Mammonite -->
@@ -76,7 +76,7 @@
   <!-- EN: Pushcart -->
   <VPE_Merchant_PushCartSTNL.label>プッシュカート</VPE_Merchant_PushCartSTNL.label>
   <!-- EN: Allows the caster to summon a pushcart that will further increase their carrying capacity. -->
-  <VPE_Merchant_PushCartSTNL.description>キャスターが荷物運搬用のカートを召喚し、所持容量を増加させます。</VPE_Merchant_PushCartSTNL.description>
+  <VPE_Merchant_PushCartSTNL.description>術者が荷物運搬用のカートを召喚し、所持容量を増加させます。</VPE_Merchant_PushCartSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_PushCartSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_PushCartSTNL.jobReportString>
   <!-- EN: Pushcart -->

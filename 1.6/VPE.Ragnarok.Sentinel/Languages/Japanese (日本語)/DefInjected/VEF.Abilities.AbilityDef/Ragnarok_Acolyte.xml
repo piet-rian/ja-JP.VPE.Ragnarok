@@ -13,7 +13,7 @@
   <!-- EN: Aqua Benedicta -->
   <VPE_Acolyte_AquaBenedictaSTNL.label>アクアベネディクタ</VPE_Acolyte_AquaBenedictaSTNL.label>
   <!-- EN: Draws water around the caster and manipulate it to cure the caster's addiction, this ability requires standing on water to function. -->
-  <VPE_Acolyte_AquaBenedictaSTNL.description>周囲の水を引き寄せて操作し、キャスターの依存症を治療します。水の上に立っている必要があります。</VPE_Acolyte_AquaBenedictaSTNL.description>
+  <VPE_Acolyte_AquaBenedictaSTNL.description>周囲の水を引き寄せて操作し、術者の依存症を治療します。水の上に立っている必要があります。</VPE_Acolyte_AquaBenedictaSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Acolyte_AquaBenedictaSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_AquaBenedictaSTNL.jobReportString>
   <!-- EN: Aqua Benedicta -->
@@ -58,7 +58,7 @@
   <!-- EN: Passive: Divine Protection -->
   <VPE_Acolyte_DivineProtectionSTNL.label>(P)ディバインプロテクション</VPE_Acolyte_DivineProtectionSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nReduce the offensive capabilities of nearby entities around the caster. -->
-  <VPE_Acolyte_DivineProtectionSTNL.description>パッシブ：能力を習得すると自動的に適用され、キャスター周囲の敵対的「存在」の攻撃能力を低下させます。</VPE_Acolyte_DivineProtectionSTNL.description>
+  <VPE_Acolyte_DivineProtectionSTNL.description>パッシブ：能力を習得すると自動的に適用され、術者周囲の敵対的「存在」の攻撃能力を低下させます。</VPE_Acolyte_DivineProtectionSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Acolyte_DivineProtectionSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_DivineProtectionSTNL.jobReportString>
   <!-- EN: Passive: Divine Protection -->
@@ -121,7 +121,7 @@
   <!-- EN: Teleport -->
   <VPE_Acolyte_TeleportSTNL.label>テレポート</VPE_Acolyte_TeleportSTNL.label>
   <!-- EN: Warps the user to a random unfogged and standable cell within their map. -->
-  <VPE_Acolyte_TeleportSTNL.description>ランダムな、可視化済みの立てるセルへキャスターをワープさせます。</VPE_Acolyte_TeleportSTNL.description>
+  <VPE_Acolyte_TeleportSTNL.description>ランダムな、可視化済みの立てるセルへ術者をワープさせます。</VPE_Acolyte_TeleportSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Acolyte_TeleportSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_TeleportSTNL.jobReportString>
   <!-- EN: Teleport -->
@@ -130,7 +130,7 @@
   <!-- EN: Warp Portal -->
   <VPE_Acolyte_WarpPortalSTNL.label>ワープポータル</VPE_Acolyte_WarpPortalSTNL.label>
   <!-- EN: Teleport everyone standing near the caster to a world tile of your choosing, the teleportation will cause everyone to reappear near an ally within the target map if the latter is occupied. -->
-  <VPE_Acolyte_WarpPortalSTNL.description>キャスターの近くにいる全員を選んだワールドタイルへ転送します。対象地が占有されている場合、転送先のマップでは味方の近くに再出現します。</VPE_Acolyte_WarpPortalSTNL.description>
+  <VPE_Acolyte_WarpPortalSTNL.description>術者の近くにいる全員を選んだワールドタイルへ転送します。対象地が占有されている場合、転送先のマップでは味方の近くに再出現します。</VPE_Acolyte_WarpPortalSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Acolyte_WarpPortalSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_WarpPortalSTNL.jobReportString>
   <!-- EN: Warp Portal -->
