@@ -31,7 +31,7 @@
   <!-- EN: Passive: Increase HP recovery -->
   <VPE_Swordsman_HPRecoverySTNL.label>(P)HP回復力向上</VPE_Swordsman_HPRecoverySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nEnhance natural HP recovery, health regeneration will not happen if the caster is moving. -->
-  <VPE_Swordsman_HPRecoverySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。自然回復を強化します（移動中は回復しません）。</VPE_Swordsman_HPRecoverySTNL.description>
+  <VPE_Swordsman_HPRecoverySTNL.description>パッシブ：自然回復を強化します（移動中は回復しません）。</VPE_Swordsman_HPRecoverySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_HPRecoverySTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_HPRecoverySTNL.jobReportString>
   <!-- EN: Passive: Increase HP recovery -->
@@ -40,7 +40,7 @@
   <!-- EN: Passive: HP Recovery While Moving -->
   <VPE_Swordsman_HPRecoveryWhileMovingSTNL.label>(P)移動時HP回復</VPE_Swordsman_HPRecoveryWhileMovingSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nAllow the caster to regenerate health while moving at a lower rate than while standing still. -->
-  <VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。移動中でも低速でHPが回復します。</VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>
+  <VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>パッシブ：移動中でも低速でHPが回復します。</VPE_Swordsman_HPRecoveryWhileMovingSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_HPRecoveryWhileMovingSTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_HPRecoveryWhileMovingSTNL.jobReportString>
   <!-- EN: Passive: HP Recovery While Moving -->
@@ -67,7 +67,7 @@
   <!-- EN: Passive: Sword Mastery -->
   <VPE_Swordsman_SwordMasterySTNL.label>(P)剣修練</VPE_Swordsman_SwordMasterySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nDeal increased damage with melee attacks. -->
-  <VPE_Swordsman_SwordMasterySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接攻撃の与ダメージが増加します。</VPE_Swordsman_SwordMasterySTNL.description>
+  <VPE_Swordsman_SwordMasterySTNL.description>パッシブ：近接攻撃の与ダメージが増加します。</VPE_Swordsman_SwordMasterySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_SwordMasterySTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_SwordMasterySTNL.jobReportString>
   <!-- EN: Passive: Sword Mastery -->
@@ -76,7 +76,7 @@
   <!-- EN: Passive: Two Handed Sword Mastery -->
   <VPE_Swordsman_TwoHandedSwordMasterySTNL.label>(P)両手剣修練</VPE_Swordsman_TwoHandedSwordMasterySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nDeal increased damage with melee attacks. -->
-  <VPE_Swordsman_TwoHandedSwordMasterySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接攻撃の与ダメージが増加します。</VPE_Swordsman_TwoHandedSwordMasterySTNL.description>
+  <VPE_Swordsman_TwoHandedSwordMasterySTNL.description>パッシブ：近接攻撃の与ダメージが増加します。</VPE_Swordsman_TwoHandedSwordMasterySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Swordsman_TwoHandedSwordMasterySTNL.jobReportString>アビリティ使用中: {0}</VPE_Swordsman_TwoHandedSwordMasterySTNL.jobReportString>
   <!-- EN: Passive: Two Handed Sword Mastery -->

@@ -58,7 +58,7 @@
   <!-- EN: Passive: Increase SP recovery -->
   <VPE_Magician_IncreaseSPRecoverySTNL.label>(P)SP回復力向上</VPE_Magician_IncreaseSPRecoverySTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nEnhance Psyfocus recovery, 10% of the caster's psyfocus will be recharged after standing still for 10 seconds. -->
-  <VPE_Magician_IncreaseSPRecoverySTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。静止して10秒後にサイフォーカスが10%回復します。</VPE_Magician_IncreaseSPRecoverySTNL.description>
+  <VPE_Magician_IncreaseSPRecoverySTNL.description>パッシブ：静止して10秒後にサイフォーカスが10%回復します。</VPE_Magician_IncreaseSPRecoverySTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Magician_IncreaseSPRecoverySTNL.jobReportString>アビリティ使用中: {0}</VPE_Magician_IncreaseSPRecoverySTNL.jobReportString>
   <!-- EN: Passive: Increase SP recovery -->

@@ -4,7 +4,7 @@
   <!-- EN: Back Slide -->
   <VPE_Thief_BackSlideSTNL.label>バックステップ</VPE_Thief_BackSlideSTNL.label>
   <!-- EN: Allows the caster to instantly slide to any cell within the range of this ability. -->
-  <VPE_Thief_BackSlideSTNL.description>このアビリティの範囲内の任意のセルへ即座にスライド移動できます。</VPE_Thief_BackSlideSTNL.description>
+  <VPE_Thief_BackSlideSTNL.description>このアビリティの範囲内の任意のセルへ即座にスライド移動できます。(訳注)斜線が通っていない場所には移動できません。</VPE_Thief_BackSlideSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_BackSlideSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_BackSlideSTNL.jobReportString>
   <!-- EN: Back Slide -->
@@ -49,7 +49,7 @@
   <!-- EN: Passive: Double Attack -->
   <VPE_Thief_Passive_DoubleAttackSTNL.label>(P)ダブルアタック</VPE_Thief_Passive_DoubleAttackSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nThis person will have a 70% chance to land an additional hit when using melee attacks. Additionally increases melee attack speed by 10%. -->
-  <VPE_Thief_Passive_DoubleAttackSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接攻撃時に70%の確率で追加攻撃が発生し、近接攻撃速度が10%上昇します。</VPE_Thief_Passive_DoubleAttackSTNL.description>
+  <VPE_Thief_Passive_DoubleAttackSTNL.description>パッシブ：近接攻撃時に70%の確率で追加攻撃が発生し、近接攻撃速度が10%上昇します。</VPE_Thief_Passive_DoubleAttackSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_Passive_DoubleAttackSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_Passive_DoubleAttackSTNL.jobReportString>
   <!-- EN: Passive: Double Attack -->
@@ -58,7 +58,7 @@
   <!-- EN: Passive: Increased Flee -->
   <VPE_Thief_Passive_IncreasedFleeSTNL.label>(P)回避率増加</VPE_Thief_Passive_IncreasedFleeSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nThis person will obtain an increase of 50% to their melee dodge chance. They will additionally gain a 10% increase to movement speed. -->
-  <VPE_Thief_Passive_IncreasedFleeSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。近接回避率が50%増加し、移動速度が10%上昇します。</VPE_Thief_Passive_IncreasedFleeSTNL.description>
+  <VPE_Thief_Passive_IncreasedFleeSTNL.description>パッシブ：近接回避率が50%増加し、移動速度が10%上昇します。</VPE_Thief_Passive_IncreasedFleeSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Thief_Passive_IncreasedFleeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Thief_Passive_IncreasedFleeSTNL.jobReportString>
   <!-- EN: Passive: Increased Flee -->

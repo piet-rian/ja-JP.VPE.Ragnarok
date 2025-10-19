@@ -40,7 +40,7 @@
   <!-- EN: Passive: Discount -->
   <VPE_Merchant_DiscountSTNL.label>(P)ディスカウント</VPE_Merchant_DiscountSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nAllows this person to get better prices while trading. -->
-  <VPE_Merchant_DiscountSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。取引時により良い価格を得られます。</VPE_Merchant_DiscountSTNL.description>
+  <VPE_Merchant_DiscountSTNL.description>パッシブ：取引時により良い価格を得られます。</VPE_Merchant_DiscountSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_DiscountSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_DiscountSTNL.jobReportString>
   <!-- EN: Passive: Discount -->
@@ -58,7 +58,7 @@
   <!-- EN: Passive: Overcharge -->
   <VPE_Merchant_OverchargeSTNL.label>(P)オーバーチャージ</VPE_Merchant_OverchargeSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nAllows this person to get even better prices while trading. -->
-  <VPE_Merchant_OverchargeSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。取引時にさらに有利な価格を得られます。</VPE_Merchant_OverchargeSTNL.description>
+  <VPE_Merchant_OverchargeSTNL.description>パッシブ：取引時にさらに有利な価格を得られます。</VPE_Merchant_OverchargeSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_OverchargeSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_OverchargeSTNL.jobReportString>
   <!-- EN: Passive: Overcharge -->
@@ -67,7 +67,7 @@
   <!-- EN: Passive: Carry Weight Increase -->
   <VPE_Merchant_PassiveCarryWeightSTNL.label>(P)所持限界量増加</VPE_Merchant_PassiveCarryWeightSTNL.label>
   <!-- EN: Passive Skill: Unlocking this ability will automatically apply its effect.\n\nIncreases carry weight and caravan mass carrying capacity by 3 times the normal amount. -->
-  <VPE_Merchant_PassiveCarryWeightSTNL.description>パッシブ：この能力を習得すると自動的に効果が適用されます。所持重量とキャラバンの耐荷重が通常の3倍に増加します。</VPE_Merchant_PassiveCarryWeightSTNL.description>
+  <VPE_Merchant_PassiveCarryWeightSTNL.description>パッシブ：所持重量とキャラバンの耐荷重が通常の3倍に増加します。</VPE_Merchant_PassiveCarryWeightSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Merchant_PassiveCarryWeightSTNL.jobReportString>アビリティ使用中: {0}</VPE_Merchant_PassiveCarryWeightSTNL.jobReportString>
   <!-- EN: Passive: Carry Weight Increase -->
