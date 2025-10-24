@@ -67,7 +67,7 @@
   <!-- EN: Heal -->
   <VPE_Acolyte_HealSTNL.label>ヒール</VPE_Acolyte_HealSTNL.label>
   <!-- EN: Heals every wound in the target's health tab by half, additionally substracts 1 from the severity of non permanent wounds.\n\nTargeting entities with this ability will deal 15 flame damage to them instead. -->
-  <VPE_Acolyte_HealSTNL.description>ターゲットの全ての傷を半分回復し、非永久的な傷の重症度を1減少させます。「存在」を対象とした場合は代わりに15の火ダメージを与えます。</VPE_Acolyte_HealSTNL.description>
+  <VPE_Acolyte_HealSTNL.description>対象の健康欄にあるすべての傷を半分回復し、永久でない傷の重症度を1減少させます。対象が「存在」の場合は代わりに15の火ダメージを与えます。</VPE_Acolyte_HealSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Acolyte_HealSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_HealSTNL.jobReportString>
   <!-- EN: Heal -->
@@ -130,7 +130,7 @@
   <!-- EN: Warp Portal -->
   <VPE_Acolyte_WarpPortalSTNL.label>ワープポータル</VPE_Acolyte_WarpPortalSTNL.label>
   <!-- EN: Teleport everyone standing near the caster to a world tile of your choosing, the teleportation will cause everyone to reappear near an ally within the target map if the latter is occupied. -->
-  <VPE_Acolyte_WarpPortalSTNL.description>術者の近くにいる全員を選んだワールドタイルへ転送します。対象地が占有されている場合、転送先のマップでは味方の近くに再出現します。</VPE_Acolyte_WarpPortalSTNL.description>
+  <VPE_Acolyte_WarpPortalSTNL.description>術者の近くにいる全員を選んだワールドタイルへ転送します。対象地が占有されている場合、転送先のマップでは味方の近くに再出現します。\n\n(訳注1)拠点やクエストマップを移動先に指定した場合はマップが開きます。つまり、トレードを目的として拠点を選択すると攻撃になってしまうことに注意してください。\n\n(訳注2)ワールドマップでキャラバン移動と併用した際の挙動がちょっと怪しいです。コロニーへの帰還、あるいはコロニーから攻撃先の拠点への直接移動のみに絞ると挙動が安定します。</VPE_Acolyte_WarpPortalSTNL.description>
   <!-- EN: Using ability: {0} -->
   <VPE_Acolyte_WarpPortalSTNL.jobReportString>アビリティ使用中: {0}</VPE_Acolyte_WarpPortalSTNL.jobReportString>
   <!-- EN: Warp Portal -->
