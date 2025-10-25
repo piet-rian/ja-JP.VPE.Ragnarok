@@ -6,4 +6,6 @@
   <FailedPetrifySTNL>失敗！</FailedPetrifySTNL>
   <!-- EN: Stolen {0}! -->
   <VPERAGNAStolenItemSTNL>「{0}」を盗まれた！</VPERAGNAStolenItemSTNL>
+  <!-- EN: [Error] The warp somehow didn't generate any standable cells, this usually mean that the target's map generator wasn't set correctly. the caster's psyfocus and neural heat have been reset. -->
+  <InvalidWarpPortalLocationSTNL>ワープが何らかの理由で立てるセルを生成できませんでした。通常、これは対象のマップ生成設定が正しくないことを意味します。術者のサイフォーカスとニューラルヒートはリセットされました。</InvalidWarpPortalLocationSTNL>
 </LanguageData>
